@@ -1,3 +1,6 @@
+# Pygame Python module should be installed for starting game.
+# http://www.pygame.org/wiki/about
+
 import pygame, sys, os, time
 from pygame.locals import *
 from random import randint, choice
