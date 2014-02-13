@@ -1,4 +1,3 @@
-bif="bg.jpg"
 import pygame, sys, os, time
 from pygame.locals import *
 from random import randint, choice
@@ -8,7 +7,9 @@ speed=1
 rows, cols = 25, 15
 matrix = [[ 0 for c in range(cols)] for r in range(rows)]	# Size of the game matrix
 screen=pygame.display.set_mode((cols*10,rows*10),0,32)		# Size of the game window
-background=pygame.image.load(bif).convert()			#This is background of game
+background = pygame.Surface(screen.get_size()) #This is backgrount of game
+background = background.convert()
+background.fill((10, 10, 10))
 #-----------Functions block------------------
 def DisplayGame(): #Responsible for displaying position of figures on game field
 	screen.lock()
