@@ -10,7 +10,7 @@ speed=1
 rows, cols = 25, 15
 matrix = [[ 0 for c in range(cols)] for r in range(rows)]	# Size of the game matrix
 screen=pygame.display.set_mode((cols*10,rows*10),0,32)		# Size of the game window
-background = pygame.Surface(screen.get_size()) #This is backgrount of game
+background = pygame.Surface(screen.get_size()) 			#This is backgrount of game
 background = background.convert()
 background.fill((10, 10, 10))
 #-----------Functions block------------------
@@ -126,8 +126,8 @@ def search_full_line(): # Making searsh for full line and killing it
 					del matrix[i]
 					zero=[0 for s in range(cols)]
 					matrix.insert(0,zero)
-#Start code#################################################
-right=left=0
+#--------Start code---------------------------
+right=left=0 
 GameOver=True
 #---First level loop--------------------------
 while GameOver:
@@ -141,6 +141,7 @@ while GameOver:
 	while yes:
 		vertical=vertical+1
 		horisontal_limit()
+		#---Third level loop--------------------------
 		for z in range(5):
 			screen.blit(background,(0,0))
 			for event in pygame.event.get():
@@ -178,5 +179,3 @@ while GameOver:
 		print "Game over"
 		time.sleep(20)
 		GameOver=False
-	#---End of second level loop--------------------------	
-#---End of first level loop--------------------------	
