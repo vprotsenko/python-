@@ -5,7 +5,7 @@ from random import randint, choice
 import numpy
 
 speed=1
-rows, cols = 15, 15
+rows, cols = 25, 15
 matrix = [[ 0 for c in range(cols)] for r in range(rows)]	# Size of game matrix
 screen=pygame.display.set_mode((cols*10,rows*10),0,32)		# Size of the game window
 background=pygame.image.load(bif).convert()					#This is backgrount of game
