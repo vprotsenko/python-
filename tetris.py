@@ -6,11 +6,11 @@ import numpy
 
 speed=1
 rows, cols = 25, 15
-matrix = [[ 0 for c in range(cols)] for r in range(rows)]	# Size of game matrix
+matrix = [[ 0 for c in range(cols)] for r in range(rows)]	# Size of the game matrix
 screen=pygame.display.set_mode((cols*10,rows*10),0,32)		# Size of the game window
-background=pygame.image.load(bif).convert()					#This is backgrount of game
+background=pygame.image.load(bif).convert()			#This is background of game
 #-----------Functions block------------------
-def DisplayGame(): # Responcible for displaying position of figures on game field
+def DisplayGame(): #Responsible for displaying position of figures on game field
 	screen.lock()
 	for c in range(rows):							
 		for b in range(cols):						
@@ -20,15 +20,15 @@ def DisplayGame(): # Responcible for displaying position of figures on game fiel
 	screen.unlock()
 def move_cube(l,r,xscale,yscale): # Change position of basic figure  
 	xscale=xscale+l+r
-	if l+r==0: matrix[yscale][xscale]=2 # no left/right movements
-	elif l+r==1: matrix[yscale][xscale-1]=2 #mouve right
-	elif l+r==-1: matrix[yscale][xscale+1]=2 #mouve left
+	if l+r==0: matrix[yscale][xscale]=2 # No left/right movements
+	elif l+r==1: matrix[yscale][xscale-1]=2 #move right
+	elif l+r==-1: matrix[yscale][xscale+1]=2 #move left
 def attach_fig_to_body(yes):	# Internal operation (not visible for gamer)
 	if yes==False:				# When figure touch button it converts from "2" to "1"
 		for r in range(rows):
 			for c in range(cols):
 				if matrix[r][c]==2:	matrix[r][c]=1
-def clean_up():					# This function clean previous stap of figure 
+def clean_up():					# This function clean previous position of figure 
 	for r in range(rows):
 		for c in range(cols):
 			if matrix[r][c]==2:	matrix[r][c]=0
@@ -43,7 +43,7 @@ def vertical_limit(v_position): # Let the figure feel button
 						return True	
 				else:
 					return True
-def horisontal_limit(): # Check horisont before meking next left/right movement
+def horisontal_limit(): # Check horisont before making next left/right movement
 	for r in range(rows):
 		for c in range(cols):
 			if matrix[r][c]==2 and matrix[r][c-1]==1:
@@ -112,7 +112,7 @@ def get_figure(l,r,h,v,p,n):
 	elif n==5: fig5(l,r,h,v,p)
 	elif n==6: fig6(l,r,h,v,p)
 	elif n==7: fig7(l,r,h,v,p)
-def search_full_line(): # Making searsh for full line and kill them
+def search_full_line(): # Making searsh for full line and killing it
 	for i in range(rows):
 		a=0
 		for c in range(cols):
@@ -128,7 +128,7 @@ GameOver=True
 #---First level loop--------------------------
 while GameOver:
 	vertical=0 		# y scale start position
-	horizont=cols/2 # x scale start position
+	horizont=cols/2 	# x scale start position
 	speed_up=1 		# increasing speed during KEY_DOWN
 	yes=True		
 	figure=randint(1,7)		# Get next figure	
