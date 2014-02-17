@@ -1,7 +1,7 @@
-# Pygame Python module should be installed for starting game.
-# http://www.pygame.org/download.shtml
+'''Pygame Python module should be installed for starting game.
+ http://www.pygame.org/download.shtml
 
-# http://youtu.be/Jwhobv8UyX4?t=8s      <----Watch it on youtube
+http://youtu.be/Jwhobv8UyX4?t=8s      <----Watch it on youtube'''
 
 import pygame, sys, os, time
 from pygame.locals import *
