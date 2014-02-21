@@ -11,7 +11,7 @@ cc_addr_list='protsenkovetal@gmail.com'
 subject='test_subject'
 
 login='protsenkovetal'
-password='super!druper'
+password=''
 smtpserver='smtp.gmail.com:587'
 
 #configs
