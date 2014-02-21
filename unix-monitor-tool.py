@@ -15,9 +15,9 @@ password='test_pass'
 smtpserver='smtp.gmail.com:587'
 
 #configs
-frequency=30
-host = 'google.com'
-TIMEFORMAT='%m%d %H:%M:%S'
+frequency=30 			'''How often script check system (in seconds) '''
+host = 'google.com'		'''Nost for pinging  '''
+TIMEFORMAT='%m%d %H:%M:%S'	'''Time format in logs '''
 cpu_threshold=80
 memory_threshold=80
 swap_threshold=40
