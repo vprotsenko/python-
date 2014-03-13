@@ -15,81 +15,83 @@ password='test_pass'
 smtpserver='smtp.gmail.com:587'
 
 #configs
-frequency=30 			'''How often script check system (in seconds) '''
-host = 'google.com'		'''Nost for pinging  '''
-TIMEFORMAT='%m%d %H:%M:%S'	'''Time format in logs '''
+frequency=30 					#'''How often script check system (in seconds) '''
+host = 'google.com'				#'''Nost for pinging  '''
+TIMEFORMAT='%m%d %H:%M:%S'			#'''Time format in logs '''
 cpu_threshold=80
-memory_threshold=80
+memory_threshold=10
 swap_threshold=40
 disc_threshold=50
 disc='/'
+logStorage='/home/v/dev/utools/scrip_log.1'
 
-
+#-------Code------------
+e_message=[]
 def time_in_log():
 	return strftime(TIMEFORMAT, gmtime())
 def mtr():
 	output=subprocess.call('mtr '+ host +  ' -c 2 -r', 
 		shell=True,
-		stdout=open('/home/v/dev/utools/scrip_log.1', 'a'),
+		stdout=open(logStorage, 'a'),
 		stderr=subprocess.STDOUT)
 def df():
-	output=subprocess.call('dh -h', 
+	output=subprocess.call('df -h', 
 		shell=True,
-		stdout=open('/home/v/dev/utools/scrip_log.1', 'a'),
+		stdout=open(logStorage, 'a'),
 		stderr=subprocess.STDOUT)
 def w():
 	output=subprocess.call('w', 
 		shell=True,
-		stdout=open('/home/v/dev/utools/scrip_log.1', 'a'),
+		stdout=open(logStorage, 'a'),
 		stderr=subprocess.STDOUT)
 
 
 def ping():
 	output = subprocess.call('ping '+ host +  ' -c 2 |grep "time\|rtt"', 
 		shell=True,
-		stdout=open('/home/v/dev/utools/scrip_log.1', 'a'),
+		stdout=open(logStorage, 'a'),
 		stderr=subprocess.STDOUT)
 	if output==0:
-		exact_mail("No ping")
+		e_message.append("No ping")
 
 def cpu_total():
 	output=psutil.cpu_percent(interval=3)
-	f=open('/home/v/dev/utools/scrip_log.1', 'a')
+	f=open(logStorage, 'a')
 	f.write(str(time_in_log())+"\t CPU usage total = "+str(output)+"\n")
 	if output > float(cpu_threshold):
 		cpu_total_message="CPU usage is critical="+str(output)
-		exact_mail(cpu_total_message)
+		e_message.append(cpu_total_message)
 def cpu_per_core():
 	output=psutil.cpu_percent(interval=3, percpu=True)
-	f=open('/home/v/dev/utools/scrip_log.1', 'a')
+	f=open(logStorage, 'a')
 	f.write(str(time_in_log())+"\t CPU usage per core = "+str(output)+"\n")
 	for i in range(len(output)):
 		if output[i] > float(cpu_threshold):
 			cpu_per_core_message="CPU"+str(i)+" usage is critical="+str(output[i])
-			exact_mail(cpu_per_core_message)
+			e_message.append(cpu_per_core_message)
 def memory():
 	output=psutil.virtual_memory()[2]
-	f=open('/home/v/dev/utools/scrip_log.1', 'a')
+	f=open(logStorage, 'a')
 	f.write(str(time_in_log())+"\t Memory usage = "+str(output)+"\n")
 	if output>memory_threshold:
 		memory_message="Memory usage is critical ="+str(output)+ "%"
-		exact_mail(memory_message)
+		e_message.append(memory_message)
 def swap():
 	output=psutil.swap_memory()[3]
-	f=open('/home/v/dev/utools/scrip_log.1', 'a')
+	f=open(logStorage, 'a')
 	f.write(str(time_in_log())+"\t SWAP usage = "+str(output)+"\n")
 	if output>swap_threshold:
 		swap_message=" SWAP usage is critical ="+str(output)+ "%"
-		exact_mail(swap_message)
+		e_message.append(swap_message)
 def disc():
 	output=psutil.disk_usage('/')[3]
-	f=open('/home/v/dev/utools/scrip_log.1', 'a')
+	f=open(logStorage, 'a')
 	f.write(str(time_in_log())+"\t disc usage = "+str(output)+"\n")
 	if output>disc_threshold:
 		disc_message=" disc usage is critical ="+str(output)+ "%"
-		exact_mail(disc_message)
+		e_message.append(disc_message)
 
-def sendemail(from_addr, to_addr_list, cc_addr_list,
+def sendemail_client(from_addr, to_addr_list, cc_addr_list,
               subject, message,
               login, password,
               smtpserver):
@@ -107,18 +109,20 @@ def sendemail(from_addr, to_addr_list, cc_addr_list,
 
 
 def exact_mail(message):	
-	sendemail(from_addr, to_addr_list, cc_addr_list,subject,message,login, password,smtpserver)
+	sendemail_client(from_addr, to_addr_list, cc_addr_list,subject,e_message,login, password,smtpserver)
+
 
 while True:
-	
-	ping()
-	mtr()
+	e_message=[]
 	df()
 	w()
-	disc()
 	cpu_per_core()
 	cpu_total()
 	memory()
 	swap()
+	disc()
+	ping()
+	mtr()
 	time.sleep(frequency)
+
 	
