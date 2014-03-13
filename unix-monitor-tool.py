@@ -108,7 +108,7 @@ def sendemail_client(from_addr, to_addr_list, cc_addr_list,
     server.quit()
 
 
-def exact_mail(message):	
+def exact_mail():	
 	sendemail_client(from_addr, to_addr_list, cc_addr_list,subject,e_message,login, password,smtpserver)
 
 
@@ -123,6 +123,8 @@ while True:
 	disc()
 	ping()
 	mtr()
+	
+	exact_mail() #- Sending email
 	time.sleep(frequency)
 
 	
