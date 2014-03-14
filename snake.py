@@ -1,5 +1,4 @@
-
-'''In process of developmen'''
+'''In process of development'''
 
 import pygame, sys, os, time
 from pygame.locals import *
