@@ -1,3 +1,7 @@
+'''
+Watch this game on youotube 
+https://www.youtube.com/watch?v=yi3XWhzpxS4&feature=youtu.be
+'''
 
 import pygame, sys, os, time
 from pygame.locals import *
