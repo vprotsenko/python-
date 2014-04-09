@@ -21,8 +21,8 @@ TIMEFORMAT='%m%d %H:%M:%S'			#'''Time format in logs '''
 cpu_threshold=80
 memory_threshold=10
 swap_threshold=40
-disc_threshold=50
-disc='/'
+disk_threshold=50
+disk='/'
 logStorage='/home/v/dev/utools/scrip_log.1'
 
 #-------Code------------
@@ -83,13 +83,13 @@ def swap():
 	if output>swap_threshold:
 		swap_message=" SWAP usage is critical ="+str(output)+ "%"
 		e_message.append(swap_message)
-def disc():
+def disk():
 	output=psutil.disk_usage('/')[3]
 	f=open(logStorage, 'a')
-	f.write(str(time_in_log())+"\t disc usage = "+str(output)+"\n")
-	if output>disc_threshold:
-		disc_message=" disc usage is critical ="+str(output)+ "%"
-		e_message.append(disc_message)
+	f.write(str(time_in_log())+"\t disk usage = "+str(output)+"\n")
+	if output>disk_threshold:
+		disk_message=" disk usage is critical ="+str(output)+ "%"
+		e_message.append(disk_message)
 
 def sendemail_client(from_addr, to_addr_list, cc_addr_list,
               subject, message,
@@ -120,7 +120,7 @@ while True:
 	cpu_total()
 	memory()
 	swap()
-	disc()
+	disk()
 	ping()
 	mtr()
 	
