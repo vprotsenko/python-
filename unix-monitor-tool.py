@@ -23,7 +23,7 @@ memory_threshold=10
 swap_threshold=40
 disk_threshold=50
 #disk='/'
-logStorage='/home/v/dev/utools/scrip_log.1'
+logStorage='/var/log/monitor.log'
 
 #-------Code------------
 e_message=[]
