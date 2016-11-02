@@ -1,11 +1,12 @@
+# noinspection PySingleQuotedDocstring
 '''
 Watch this game on youotube 
 https://www.youtube.com/watch?v=yi3XWhzpxS4&feature=youtu.be
 '''
 
-import pygame, sys, os, time
+import pygame, sys, time
 from pygame.locals import *
-from random import randint, choice
+from random import randint
 
 
 
@@ -13,16 +14,17 @@ speed=1
 rows, cols = 15, 25
 
 
-matrix = [[ 0 for c in range(cols)] for r in range(rows)]	
-screen=pygame.display.set_mode((cols*10,rows*10),0,32)		
+matrix = [[ 0 for c in range(cols)] for r in range(rows)]
+screen=pygame.display.set_mode((cols*10,rows*10),0,32)
 background = pygame.Surface(screen.get_size()) 			#Background of game
+# noinspection PyArgumentList
 background = background.convert()
-background.fill((10, 10, 10))					
-def DisplayGame(): 
+background.fill((10, 10, 10))
+def DisplayGame():
 	screen.lock()
-	for c in range(rows):							
-		for b in range(cols):						
-			if matrix[c][b]==1:	
+	for c in range(rows):
+		for b in range(cols):
+			if matrix[c][b]==1:
 				pygame.draw.rect(screen, (120,240,130), Rect((b*10,c*10), (9,9)))
 			if matrix[c][b]==2:
 				pygame.draw.rect(screen, (220,40,230), Rect((b*10,c*10), (9,9)))
@@ -37,8 +39,8 @@ def frame(x,y):
 		return True
 def food():
 	count=0
-	for r in range(rows-1):							
-		for c in range(cols):						
+	for r in range(rows-1):
+		for c in range(cols):
 			if matrix[r][c]==2:
 				count=1
 	if count==0:
@@ -70,7 +72,7 @@ def claenOldStep(x_positions,y_positions,xscale,yscale):
 		if matrix[yscale+1][xscale]!=2:
 			print xscale,yscale
 			del x_positions[0]
-			del y_positions[0]			
+			del y_positions[0]
 def newPosition(x_positions,y_positions):
 		for i in range(len(x_positions)):
 			matrix[y_positions[i]][x_positions[i]]=1
@@ -101,9 +103,9 @@ while GameOver:
 							direct=1
 					elif event.key==K_LEFT:
 						if direct!=3:
-							direct=2						
+							direct=2
 					elif event.key==K_RIGHT:
-						if direct!=2:	
+						if direct!=2:
 							direct=3
 					elif event.key==K_DOWN:
 						if direct!=1:
@@ -114,13 +116,13 @@ while GameOver:
 		claenOldStep(x_positions,y_positions,xscale,yscale)
 
 		if direct==1: #UP
-			yscale=yscale-1
+			yscale -= 1
 		elif direct==2: #Left
-			xscale=xscale-1
+			xscale -= 1
 		elif direct==3: #Right
-			xscale=xscale+1
+			xscale += 1
 		elif direct==4: #Down
-			yscale=yscale+1
+			yscale += 1
 
 
 
@@ -132,5 +134,5 @@ while GameOver:
 		DisplayGame()
 		#debug
 		print "+++++++++++++++++++++++++++++++++++++++++++++++"
-		for c in range(rows):							
+		for c in range(rows):
 			print matrix[c]
