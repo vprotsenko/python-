@@ -30,10 +30,10 @@ def add_user(login, password, email):
         return True
 
 
-def authorisation():
+def rgistration():
     username=input("Put Username")
     password=input("Put password")
-    email=input("Put notes")
+    email=input("Put email")
     if add_user(username, password, email) is True:
         print("User added")
     else:
@@ -62,8 +62,8 @@ def start_screen():
         print(db)
         choice = input("Press \"l\" to login or \"r\" for registration")
         if choice == 'r':
-            authorisation()
-            a = True
+            rgistration()
+            a = False
         elif choice == 'l':
             login()
             a = True
