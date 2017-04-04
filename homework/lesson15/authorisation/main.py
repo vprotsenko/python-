@@ -1,5 +1,5 @@
 import pickle
-
+import hashlib
 db={}
 
 def sync_var():
@@ -19,18 +19,20 @@ def check_user(login):
     user_list=db.keys()
     if login in user_list:
         return True
-
+    else:
+        return False
 
 def add_user(login, password, email):
     if check_user(login):
         return False
     else:
-        db.update({login:{'password':password, 'email':email}})
+        p=str(hashlib.sha1(password.encode('utf-8')).hexdigest())
+        db.update({login:{'password':p, 'email':email}})
         dump_var_to_db()
         return True
 
 
-def rgistration():
+def registration():
     username=input("Put Username")
     password=input("Put password")
     email=input("Put email")
@@ -44,7 +46,9 @@ def login():
     username=input("Put Username")
     password=input("Put password")
     if username in db.keys():
-        if db[username]['password'] == password:
+
+        p=str(hashlib.sha1(password.encode('utf-8')).hexdigest())
+        if db[username]['password'] == p:
             print('welcome')
             return username
         else:
@@ -52,7 +56,7 @@ def login():
             return None
     else:
         print('wrong login or password')
-        return None
+
 
 def start_screen():
     sync_var()
@@ -62,7 +66,7 @@ def start_screen():
         print(db)
         choice = input("Press \"l\" to login or \"r\" for registration")
         if choice == 'r':
-            rgistration()
+            registration()
             a = False
         elif choice == 'l':
             login()
