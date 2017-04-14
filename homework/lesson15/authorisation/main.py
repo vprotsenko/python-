@@ -1,5 +1,5 @@
 import front_part as front
-import backand_part as back
+import backend_part as back
 
 
 def start_screen():
