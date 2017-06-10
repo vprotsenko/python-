@@ -1,0 +1,1190 @@
+#91000
+птица лебедь обида печальным лицом~
+птица-лебедь Обида~
+птицы-лебеди Обиды~
+птице-лебеде Обиде~
+птицу-лебедь Обиду~
+птицей-лебедью Обидой~
+птице-лебеди Обиде~
+Птица-лебедь Обида с печальным лицом охраняет вершину мира от простых смертных.
+~
+   Птица Обида - черная лебедь - противостоит Орлу и Соколу - светлым
+богам.
+~
+b0d0f0g0m0n0o0p0r0u0x0b1 d0f0k0A0m1 -600 E
+32 0 -15 30d10+4000 13d13+20
+0d0+0 1000000
+8 8 2
+Saves: -14 -14 -14 -14
+CastSuccess: 23
+Absorbe: 32
+BareHandAttack: 2
+Str: 25
+Dex: 20
+Int: 30
+Wis: 30
+Con: 25
+Size: 50
+LikeWork: 100
+MaxFactor: 15
+ExtraAttack: 1
+Class: 105
+Race: 103
+Height: 198
+Weight: 50
+Special_Bitvector: l0 
+Skill: 5 80
+Skill: 21 80
+Skill: 136 90
+Skill: 150 80
+Skill: 151 80
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 55
+Spell: 55
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 124
+Spell: 124
+Spell: 124
+Helper: 91016
+Helper: 91015
+Helper: 91011
+E
+T 91000
+#91001
+великан Усыня сын Виевич~
+великан Усыня~
+великана Усыни~
+великану Усыне~
+великана Усыню~
+великаном Усыней~
+великане Усыне~
+Великан Усыня, сын Виевич, охраняет вершину мира от простых смертных.
+~
+   Один из младших сыновей владыки подземного Царства Вия, поставлен на
+охрану одной из трех Вершин Мира своим отцом.
+~
+b0c0d0e0f0g0n0o0p0q0r0t0x0A0g2 d0f0k0r0t1 -600 E
+38 -15 -20 60d10+6000 13d13+25
+50d500+10000 3000000
+8 8 1
+Saves: -47 -47 -47 -47
+CastSuccess: 51
+Absorbe: 47
+BareHandAttack: 6
+Str: 30
+Dex: 25
+Int: 50
+Wis: 18
+Con: 30
+Size: 100
+LikeWork: 100
+MaxFactor: 15
+ExtraAttack: 1
+Class: 104
+Race: 112
+Height: 198
+Weight: 90
+Special_Bitvector: b1c1 
+Feat: 29
+Feat: 30
+Feat: 31
+Feat: 32
+Feat: 33
+Feat: 34
+Feat: 35
+Feat: 36
+Feat: 37
+Feat: 38
+Skill: 4 150
+Skill: 31 100
+Skill: 134 100
+Skill: 136 96
+Skill: 137 150
+Skill: 141 110
+Skill: 142 110
+Skill: 143 110
+Skill: 144 110
+Skill: 145 110
+Skill: 146 110
+Skill: 147 110
+Skill: 148 110
+Skill: 149 100
+Skill: 150 110
+Skill: 151 100
+Skill: 154 110
+Skill: 155 110
+Skill: 158 110
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 36
+Spell: 36
+Spell: 36
+Spell: 48
+Spell: 48
+Spell: 68
+Spell: 68
+Spell: 78
+Spell: 79
+Spell: 79
+Spell: 82
+Spell: 82
+Spell: 124
+Spell: 127
+Spell: 156
+Spell: 156
+Spell: 156
+Helper: 91012
+Helper: 91003
+Role: 000001001
+E
+T 91001
+#91002
+змей трехголовый Виевого племени~
+змей трехголовый~
+змея трехголового~
+змею трехголовому~
+змея трехголового~
+змеем трехголовым~
+змее трехголовом~
+Змей трехголовый, Виевого племени, охраняет гору от непрошенных гостей.
+~
+   Один из младших сыновей самого Великого Змея, верного слуги Кривды,
+поставлен отцом на охрану одной из Вершин Мира.
+~
+b0c0d0e0f0g0m0n0o0p0q0r0t0x0A0r1h2 d0f0k0x0 -600 E
+34 0 -20 50d10+1750 10d10+20
+0d0+0 1200000
+8 8 1
+Saves: -22 -22 -22 -22
+CastSuccess: 29
+Absorbe: 34
+BareHandAttack: 6
+Str: 27
+Dex: 18
+Int: 25
+Wis: 25
+Con: 30
+Size: 55
+LikeWork: 100
+MaxFactor: 15
+ExtraAttack: 2
+Class: 103
+Race: 105
+Height: 198
+Weight: 90
+Special_Bitvector: b1c1 
+Skill: 5 80
+Skill: 22 80
+Skill: 132 80
+Skill: 136 96
+Skill: 141 100
+Skill: 142 100
+Skill: 143 100
+Skill: 144 100
+Skill: 145 100
+Skill: 146 100
+Skill: 147 100
+Skill: 148 100
+Skill: 150 100
+Skill: 154 100
+Skill: 155 60
+Skill: 157 100
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 55
+Spell: 62
+Spell: 62
+Spell: 110
+Spell: 110
+Spell: 110
+Spell: 110
+Spell: 110
+Spell: 118
+Spell: 118
+Spell: 156
+Helper: 91014
+Helper: 91010
+E
+T 91002
+#91003
+хранитель Усыня созданный~
+хранитель Усыни~
+хранителя Усыни~
+хранителю Усыни~
+хранителя Усыни~
+хранителем Усыни~
+хранителе Усыни~
+Хранитель Усыни, созданный Вием, готов прийти на помощь господину.
+~
+   Создание Вия, правителя подземного царства, посланный на помощь своему
+сыну Усыне.
+~
+b0c0d0f0g0m0n0o0p0x0A0 d0f0k0m0n0A0 -600 E
+34 -30 -10 30d10+2000 10d10+20
+0d0+0 1200000
+8 8 1
+Saves: -22 -22 -22 -22
+CastSuccess: 29
+Absorbe: 34
+BareHandAttack: 6
+Str: 24
+Dex: 25
+Int: 50
+Wis: 30
+Con: 35
+Size: 45
+LikeWork: 95
+ExtraAttack: 1
+Class: 102
+Race: 114
+Height: 198
+Weight: 50
+Special_Bitvector: b1c1 
+Skill: 1 100
+Skill: 5 80
+Skill: 31 100
+Skill: 132 80
+Skill: 136 100
+Skill: 141 100
+Skill: 142 100
+Skill: 143 100
+Skill: 144 100
+Skill: 145 100
+Skill: 146 100
+Skill: 147 100
+Skill: 148 100
+Skill: 149 100
+Skill: 150 100
+Skill: 151 100
+Skill: 154 100
+Skill: 155 100
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 43
+Spell: 68
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 82
+Spell: 94
+Spell: 94
+Spell: 115
+Spell: 127
+Spell: 156
+Spell: 156
+Spell: 156
+Spell: 156
+Role: 100000010
+E
+T 91004
+#91004
+черная лебедь~
+черная лебедь~
+черной лебеди~
+черной лебеди~
+черную лебедь~
+черной лебедью~
+черной лебеди~
+Черная лебедь кружит здесь, зорко высматривая незваных гостей.
+~
+ Величественная красивая лебедь, черная как ночь,
+возмущенно машет своими огромными крылами.
+~
+d0f0g0m0n0o0x0 d0f0k0r0 -600 E
+30 1 -9 25d10+1000 10d10+15
+0d0+0 900000
+8 8 2
+Absorbe: 30
+BareHandAttack: 2
+Destination: 91032
+Destination: 91034
+Destination: 91030
+Str: 24
+Dex: 20
+Int: 18
+Wis: 18
+Con: 28
+Size: 40
+LikeWork: 90
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 103
+Height: 198
+Weight: 200
+Special_Bitvector: l0 
+Skill: 1 80
+Skill: 21 80
+Skill: 132 60
+Skill: 136 100
+Skill: 157 85
+Spell: 28
+Spell: 28
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 83
+Spell: 83
+Spell: 83
+Spell: 83
+Spell: 83
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+E
+T 91006
+#91005
+снежный змей~
+снежный змей~
+снежного змея~
+снежному змею~
+снежного змея~
+снежным змеем~
+снежном змее~
+Снежный змей проползает здесь, выискивая незваных гостей.
+~
+ Длинный большой змей белого цвета. Его спина покрыта
+золотыми зубцами, сверкающими на фоне снежно-белой
+кожи.
+~
+d0f0g0m0n0o0x0 d0f0k0A0l1 -600 E
+29 -5 -9 25d10+3000 13d13+20
+0d0+0 1000000
+8 8 1
+Absorbe: 29
+Str: 25
+Dex: 14
+Int: 18
+Wis: 18
+Con: 28
+Size: 40
+LikeWork: 90
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 200
+Special_Bitvector: g0m0 
+Skill: 1 80
+Skill: 2 80
+Skill: 132 70
+Skill: 136 100
+Skill: 157 80
+Spell: 28
+Spell: 28
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+E
+T 91005
+#91006
+подкаменный змей~
+подкаменный змей~
+подкаменного змея~
+подкаменному змею~
+подкаменного змея~
+подкаменным змеем~
+подкаменном змее~
+Подкаменный змей проползает мимо, выискивая непрошенных гостей.
+~
+ Сильный и длинный змей серого цвета, покрытый черной
+чешуей на спине.
+~
+d0f0g0m0n0o0q0x0f2 d0f0k0z0 -600 E
+29 -5 -7 20d10+3000 13d13+20
+0d0+0 1000000
+8 8 1
+Absorbe: 29
+Destination: 91021
+Destination: 91017
+Destination: 91025
+Str: 25
+Dex: 22
+Int: 18
+Wis: 18
+Con: 25
+Size: 35
+LikeWork: 95
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 200
+Special_Bitvector: g0i0m0 
+Skill: 5 60
+Skill: 136 100
+Skill: 138 80
+Skill: 150 60
+Skill: 157 85
+Spell: 62
+Spell: 62
+Spell: 62
+Spell: 62
+Spell: 62
+Spell: 68
+Spell: 68
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+E
+T 91005
+#91007
+пещерный змей~
+пещерный змей~
+пещерного змея~
+пещерному змею~
+пещерного змея~
+пещерным змеем~
+пещерном змее~
+Пещерный змей проползает мимо, высматривая непрошенных гостей.
+~
+   Огромный змей, обитающий в пещере в горах.
+Стоит на маленьких, но сильных задних лапах,
+имеет длинные, как сабля клыки.
+~
+d0f0g0m0n0o0p0x0 d0f0k0 -600 E
+29 -5 5 20d10+1100 15d5+10
+0d0+0 1000000
+8 8 1
+Absorbe: 29
+Destination: 91005
+Destination: 91009
+Destination: 91012
+Destination: 91014
+Str: 22
+Dex: 20
+Int: 18
+Wis: 22
+Con: 30
+Size: 35
+LikeWork: 85
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 200
+Special_Bitvector: g0j0m0 
+Skill: 136 100
+Skill: 156 60
+Skill: 157 80
+Spell: 10
+Spell: 10
+Spell: 10
+Spell: 10
+Spell: 10
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 77
+Spell: 77
+Spell: 127
+E
+T 91005
+#91008
+серая лебедь~
+серая лебедь~
+серой лебеди~
+серой лебеди~
+серую лебедь~
+серой лебедью~
+серой лебеди~
+Серая лебедь пролетает здесь, высматривая непрошенных гостей.
+~
+ Красивая лебедь серого цвета. Размерами она 
+больше напоминает небольшого быка, и размах
+ее крыльев наводит ужас на Вас.
+~
+d0f0g0m0n0o0u0x0b1 d0f0k0 -600 E
+29 0 -10 45d10+2000 10d10+20
+0d0+0 900000
+8 8 2
+Absorbe: 29
+BareHandAttack: 12
+Destination: 91028
+Destination: 91041
+Destination: 91043
+Str: 26
+Dex: 18
+Int: 18
+Wis: 18
+Con: 22
+Size: 40
+LikeWork: 90
+MaxFactor: 19
+ExtraAttack: 1
+Class: 103
+Race: 103
+Height: 198
+Weight: 200
+Special_Bitvector: l0 
+Skill: 2 80
+Skill: 5 60
+Skill: 136 100
+Skill: 151 80
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 28
+Spell: 28
+Spell: 32
+Spell: 32
+Spell: 32
+Spell: 32
+Spell: 32
+Spell: 62
+Spell: 62
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+E
+T 91006
+#91009
+белая лебедь~
+белая лебедь~
+белой лебеди~
+белой лебеди~
+белую лебедь~
+белой лебедью~
+белой лебеди~
+Белая лебедь пролетает здесь, высматривая непрошенных гостей.
+~
+ Красивая изящная белая лебедь.
+~
+d0f0g0m0n0o0x0b1 d0f0k0 -600 E
+29 -5 -8 30d10+2000 10d10+15
+0d0+0 950000
+8 8 2
+Absorbe: 29
+BareHandAttack: 2
+Str: 24
+Dex: 19
+Int: 19
+Wis: 21
+Con: 24
+Size: 35
+LikeWork: 85
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 103
+Height: 198
+Weight: 200
+Special_Bitvector: l0 
+Skill: 1 80
+Skill: 132 70
+Skill: 136 100
+Skill: 151 70
+Spell: 23
+Spell: 23
+Spell: 28
+Spell: 28
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 127
+E
+T 91006
+#91010
+змей двухголовый Виевого племени~
+двухголовый змей~
+двухголового змея~
+двухголовому змею~
+двухголового змея~
+двухголовым змеем~
+двухголовом змее~
+Змей двухголовый, Виевого племени, охраняет вершину от простых смертных.
+~
+   Огромный двухголовый змей стоит, опираясь на маленькие,
+но сильные задние лапки. Головы его черные со сверкающими
+длинными клыками.
+~
+d0f0g0m0n0o0x0 d0f0k0 -600 E
+31 0 -10 40d10+1000 20d2+20
+0d0+0 1500000
+8 8 1
+Saves: -10 -10 -10 -10
+CastSuccess: 20
+Absorbe: 31
+Str: 24
+Dex: 18
+Int: 18
+Wis: 18
+Con: 28
+Size: 35
+LikeWork: 95
+MaxFactor: 15
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 70
+Special_Bitvector: g0m0 
+Skill: 1 95
+Skill: 5 80
+Skill: 136 100
+Skill: 157 70
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+E
+T 91003
+#91011
+черная лебедь~
+черная лебедь~
+черной лебеди~
+черной лебеди~
+черную лебедь~
+черной лебедью~
+черной лебеди~
+Черная лебедь кружит здесь, зорко высматривая незваных гостей.
+~
+Изящная черная лебедь, с длинными сверкающими
+перьями. Ее красный клюв угрожающе открыт.
+~
+d0f0g0m0n0o0x0 d0f0k0r0 -600 E
+30 -5 -9 25d10+2000 10d10+15
+0d0+0 950000
+8 8 2
+Absorbe: 30
+BareHandAttack: 2
+Str: 24
+Dex: 20
+Int: 18
+Wis: 18
+Con: 28
+Size: 40
+LikeWork: 90
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 103
+Height: 198
+Weight: 200
+Special_Bitvector: l0 
+Skill: 1 80
+Skill: 21 80
+Skill: 132 60
+Skill: 136 100
+Skill: 157 85
+Spell: 28
+Spell: 28
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 83
+Spell: 83
+Spell: 83
+Spell: 83
+Spell: 83
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 89
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+Spell: 114
+E
+#91012
+снежный змей~
+снежный змей~
+снежного змея~
+снежному змею~
+снежного змея~
+снежным змеем~
+снежном змее~
+Снежный змей проползает здесь, выискивая незваных гостей.
+~
+ Длинный большой змей белого цвета. Его спина покрыта
+золотыми зубцами, сверкающими на фоне снежно-белой
+кожи.
+~
+d0f0g0m0n0o0x0 d0f0k0A0l1 -600 E
+29 -5 -9 25d10+1500 10d10+20
+0d0+0 1000000
+8 8 1
+Absorbe: 29
+Str: 25
+Dex: 14
+Int: 18
+Wis: 18
+Con: 28
+Size: 40
+LikeWork: 90
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 50
+Special_Bitvector: g0m0 
+Skill: 1 80
+Skill: 2 80
+Skill: 132 70
+Skill: 136 100
+Skill: 157 80
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 93
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 127
+E
+#91013
+подкаменный змей~
+подкаменный змей~
+подкаменного змея~
+подкаменному змею~
+подкаменного змея~
+подкаменным змеем~
+подкаменном змее~
+Подкаменный змей проползает мимо, выискивая непрошенных гостей.
+~
+Сильный и длинный змей серого цвета, покрытый черной
+чешуей на спине.
+~
+d0f0g0m0n0o0q0x0 d0f0k0z0 -600 E
+29 -5 -7 20d10+1500 10d10+20
+0d0+0 1000000
+8 8 1
+Absorbe: 29
+Str: 25
+Dex: 22
+Int: 18
+Wis: 18
+Con: 25
+Size: 35
+LikeWork: 95
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 50
+Special_Bitvector: g0i0m0 
+Skill: 5 60
+Skill: 136 100
+Skill: 138 80
+Skill: 150 60
+Skill: 157 85
+Spell: 62
+Spell: 62
+Spell: 62
+Spell: 62
+Spell: 62
+Spell: 68
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 124
+E
+#91014
+пещерный змей~
+пещерный змей~
+пещерного змея~
+пещерному змею~
+пещерного змея~
+пещерным змеем~
+пещерном змее~
+Пещерный змей проползает мимо, высматривая непрошенных гостей.
+~
+   Огромный змей, обитающий в пещере в горах.
+Стоит на маленьких, но сильных задних лапах,
+имеет длинные, как сабля клыки.
+~
+d0f0g0m0n0o0p0x0 d0f0k0 -600 E
+29 -5 -10 20d10+1800 15d2+10
+0d0+0 1000000
+8 8 1
+Absorbe: 29
+Str: 22
+Dex: 20
+Int: 18
+Wis: 22
+Con: 30
+Size: 35
+LikeWork: 85
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 105
+Height: 198
+Weight: 200
+Special_Bitvector: g0j0m0 
+Skill: 132 90
+Skill: 136 100
+Skill: 156 60
+Skill: 157 80
+Spell: 10
+Spell: 10
+Spell: 10
+Spell: 10
+Spell: 10
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 77
+Spell: 77
+Spell: 127
+E
+#91015
+серая лебедь~
+серая лебедь~
+серой лебеди~
+серой лебеди~
+серую лебедь~
+серой лебедью~
+серой лебеди~
+Серая лебедь пролетает здесь, высматривая непрошенных гостей.
+~
+ Красивая лебедь серого цвета. Размерами она 
+больше напоминает небольшого быка, и размах
+ее крыльев наводит ужас на Вас.
+~
+d0f0g0m0n0o0u0x0b1 d0f0k0 -600 E
+29 -5 -10 45d10+1600 10d10+20
+0d0+0 900000
+8 8 2
+Absorbe: 29
+BareHandAttack: 12
+Str: 26
+Dex: 18
+Int: 18
+Wis: 18
+Con: 22
+Size: 40
+LikeWork: 90
+MaxFactor: 19
+ExtraAttack: 1
+Class: 103
+Race: 103
+Height: 198
+Weight: 50
+Special_Bitvector: l0 
+Skill: 2 80
+Skill: 5 60
+Skill: 136 100
+Skill: 151 80
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 28
+Spell: 28
+Spell: 32
+Spell: 32
+Spell: 32
+Spell: 32
+Spell: 32
+Spell: 62
+Spell: 62
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 124
+E
+#91016
+белая лебедь~
+белая лебедь~
+белой лебеди~
+белой лебеди~
+белую лебедь~
+белой лебедью~
+белой лебеди~
+Белая лебедь пролетает здесь, высматривая непрошенных гостей.
+~
+ Красивая изящная белая лебедь.
+~
+d0f0g0m0n0o0x0b1 d0f0k0 -600 E
+29 -5 -5 30d10+1500 10d10+8
+0d0+0 900000
+8 8 2
+Absorbe: 29
+BareHandAttack: 2
+Str: 24
+Dex: 19
+Int: 19
+Wis: 21
+Con: 24
+Size: 35
+LikeWork: 85
+MaxFactor: 20
+ExtraAttack: 1
+Class: 103
+Race: 103
+Height: 198
+Weight: 50
+Special_Bitvector: l0 
+Skill: 1 80
+Skill: 132 70
+Skill: 136 100
+Skill: 151 70
+Spell: 23
+Spell: 23
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 88
+Spell: 88
+Spell: 127
+E
+$

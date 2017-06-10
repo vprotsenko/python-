@@ -1,0 +1,931 @@
+#70400
+ дух командира словенского ополчения~
+дух командира~
+духа командира~
+духу командира~
+духа командира~
+духом командира~
+духе командира~
+Прозрачный дух парит не высоко над землей.
+~
+Дух командира словенского ополчения находится в довольно странном состоянии. 
+Как будто мертвый, но еще не совсем...
+~
+b0d0n0o0x0z0b1 b0c0d0e0k0x0l1q1u1x1 -600 E
+39 3 0 10d10+32000 5d5+0
+50d50+0 2000000
+8 8 1
+Saves: -60 -42 -42 -42
+Resistances: 30 30 30 30 24 24 24
+PlusMem: 200
+CastSuccess: 50
+Success: 5
+Initiative: 5
+Absorbe: 39
+Str: 33
+Dex: 25
+Int: 29
+Wis: 40
+Con: 32
+Cha: 32
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: l0 
+Skill: 136 100
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+E
+T 70401
+T 70402
+#70401
+  ангрбода~
+призрак Ангрбоды~
+призрака Ангрбоды~
+призраку Ангрбоды~
+призрака Ангрбоды~
+призраком Ангрбоды~
+призраке Ангрбоды~
+Призрак огромной великанши парит здесь.
+~
+Призрак великанши Ангрбоды, у которой скандинавский бог Локи прожил три 
+года, странствую по свету, крушит здесь все подряд.
+~
+d0f0n0o0x0z0b1 b0c0d0e0k0x0l1p1u1w1y1 -600 E
+36 0 4 10d10+9500 20d20+0
+60d65+0 1000000
+8 8 1
+Saves: -70 -30 -50 -30
+Resistances: 30 30 30 30 50 1 1
+HPreg: 110
+Armour: 55
+CastSuccess: 35
+Absorbe: 36
+Destination: 70452
+Destination: 70453
+Destination: 70454
+Destination: 70456
+Destination: 70457
+Destination: 70458
+Str: 48
+Dex: 17
+Int: 33
+Wis: 33
+Con: 48
+Cha: 18
+Size: 100
+LikeWork: 90
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: l0b1c1 
+Feat: 1
+Skill: 5 130
+Skill: 134 130
+Skill: 136 130
+Skill: 150 130
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 94
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Helper: 70402
+Helper: 70403
+Helper: 70405
+Helper: 70404
+Helper: 70407
+Role: 000000001
+E
+T 70403
+T 70407
+#70402
+ йормунганд~
+призрак Йормунганд~
+призрака Йормунганд~
+призраку Йормунганд~
+призрака Йормунганд~
+призраком Йормунганд~
+призраке Йормунганд~
+Призрак здоровенной змеи извивается на площади.
+~
+Змея Йормундгад, вторая дочь Ангрбоды, еще не успела вырасти - в ней было
+не более пятидесяти шагов, - однако, из ее пасти уже сочился смертельный яд,
+а ее холодные светло-зеленые глаза сверкали беспощадной злобой.
+~
+d0f0n0o0x0z0b1d2 b0c0d0e0k0x0l1p1u1w1y1 -600 E
+36 0 -6 10d10+7500 17d17+35
+54d55+0 1000000
+8 8 1
+Saves: -50 -30 -50 -30
+Resistances: 27 27 27 27 70 9 9
+Armour: 20
+CastSuccess: 50
+Success: 5
+Initiative: 5
+Absorbe: 36
+BareHandAttack: 4
+Destination: 70465
+Destination: 70466
+Destination: 70467
+Destination: 70468
+Str: 30
+Dex: 42
+Int: 33
+Wis: 33
+Con: 42
+Cha: 18
+Size: 100
+LikeWork: 90
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: g0m0 
+Feat: 1
+Feat: 3
+Skill: 2 130
+Skill: 136 130
+Skill: 150 130
+Spell: 25
+Spell: 25
+Spell: 25
+Spell: 25
+Spell: 25
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 33
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 72
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 94
+Spell: 111
+Spell: 111
+Spell: 111
+Spell: 150
+Spell: 150
+Spell: 150
+Spell: 156
+Spell: 156
+Spell: 156
+Role: 000000001
+E
+T 70405
+#70403
+призрак хель~
+призрак Хель~
+призрака Хель~
+призраку Хель~
+призрака Хель~
+призраком Хель~
+призраке Хель~
+Призрак ужасного создания бродит по развалинам.
+~
+Еще совсем юная Хель была уже на две головы выше своей исполинской 
+матери. Левая половина ее лица и туловища была красной, как сырое мясо, а 
+правая - иссиня-черной, как беззвездное небо страны вечной ночи... 
+~
+d0f0n0o0x0z0b1 b0c0d0e0k0x0l1p1u1w1y1 -600 E
+36 0 5 10d10+9999 22d22+20
+55d54+0 1000000
+8 8 2
+Saves: -63 -30 -40 -30
+Resistances: 70 15 25 25 20 20 20
+Armour: 55
+CastSuccess: 35
+Success: 3
+Initiative: 3
+Absorbe: 36
+Destination: 70475
+Destination: 70430
+Str: 50
+Dex: 17
+Int: 33
+Wis: 33
+Con: 50
+Cha: 18
+Size: 100
+LikeWork: 90
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: l0b1c1 
+Feat: 1
+Feat: 3
+Skill: 5 130
+Skill: 132 130
+Skill: 136 130
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 67
+Spell: 94
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+E
+T 70406
+#70404
+ фенрис~
+призрак Фенриса~
+призрака Фенриса~
+призраку Фенриса~
+призрака Фенриса~
+призраком Фенриса~
+призраке Фенриса~
+Призрак огромного черного волка сторожит выход из деревни.
+~
+Самый страшный и большой скандинавский волк Фенрис. 
+Хорошо, что это всего лишь его призрак.
+~
+b0d0f0n0o0x0z0B0b1 b0c0d0e0f0k0x0l1n1p1u1w1y1 -600 E
+36 0 0 10d10+8100 19d19+50
+0d0+0 1000000
+8 8 1
+Saves: -55 -55 -30 -30
+Resistances: 60 15 15 50 70 5 20
+HPreg: 99
+Armour: 30
+CastSuccess: 35
+Success: 4
+Initiative: 4
+Absorbe: 36
+BareHandAttack: 4
+Str: 50
+Dex: 17
+Int: 33
+Wis: 33
+Con: 50
+Cha: 18
+Size: 100
+LikeWork: 90
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: a0l0 
+Skill: 132 130
+Skill: 134 130
+Skill: 136 130
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 94
+Spell: 156
+E
+#70405
+ фенрис~
+призрак Фенриса~
+призрака Фенриса~
+призраку Фенриса~
+призрака Фенриса~
+призраком Фенриса~
+призраке Фенриса~
+Призрак огромного черного волка сторожит выход из деревни.
+~
+Самый страшный и большой скандинавский волк Фенрис. 
+Хорошо, что это всего лишь его призрак.
+~
+b0d0f0n0o0x0z0b1 b0c0d0e0f0k0x0l1p1u1w1y1 -600 E
+36 0 -7 10d10+8100 19d19+20
+50d50+0 1000000
+8 8 1
+Saves: -30 -30 -30 -30
+CastSuccess: 35
+Absorbe: 36
+BareHandAttack: 4
+Str: 50
+Dex: 17
+Int: 33
+Wis: 33
+Con: 50
+Cha: 18
+Size: 100
+LikeWork: 90
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: a0l0 
+Skill: 132 130
+Skill: 134 130
+Skill: 136 130
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 94
+Spell: 156
+E
+#70406
+ йотун~
+Йотун~
+Йотуна~
+Йотуну~
+Йотуна~
+Йотуном~
+Йотуне~
+Йотун ищет свою жертву. 
+~
+Невиданное доселе чудовище было порождено скандинавским богом Локи.
+~
+c0d0f0g0n0o0A0 c0d0e0s0A0m1w1y1 -600 E
+31 0 12 10d10+3500 16d15+0
+20d20+0 350000
+8 8 1
+Saves: -50 -10 -10 -10
+Resistances: 70 5 5 5 0 0 15
+Armour: 25
+CastSuccess: 30
+Success: 3
+Initiative: 3
+Absorbe: 31
+BareHandAttack: 8
+Str: 35
+Dex: 35
+Int: 21
+Wis: 22
+Con: 35
+Cha: 24
+Size: 100
+LikeWork: 85
+ExtraAttack: 2
+Class: 103
+Race: 112
+Height: 175
+Weight: 85
+Special_Bitvector: g0i0p0b1c1 
+Feat: 1
+Skill: 136 120
+Skill: 160 120
+Spell: 48
+Spell: 48
+Spell: 82
+Spell: 82
+E
+#70407
+ турс~
+Турс~
+Турса~
+Турсу~
+Турса~
+Турсом~
+Турсе~
+Гигант проходит по деревне.
+~
+Хмурый великан явно не доволен, что ему приходится здесь находиться. 
+Лучше ему под руку не попадаться.
+~
+d0f0g0n0o0 c0d0e0s0p1t1 -600 E
+32 0 -5 10d10+4500 18d18+0
+20d20+0 450000
+8 8 1
+Saves: -60 -14 -40 -14
+Resistances: 30 0 0 70 30 0 20
+Armour: 40
+CastSuccess: 23
+Absorbe: 32
+Str: 40
+Dex: 30
+Int: 19
+Wis: 20
+Con: 41
+Cha: 28
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 103
+Race: 104
+Height: 175
+Weight: 85
+Special_Bitvector: 0 
+Feat: 3
+Skill: 5 125
+Skill: 136 125
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 93
+Spell: 93
+E
+#70408
+ гримтурс~
+Гримтурс~
+Гримтурса~
+Гримтурсу~
+Гримтурса~
+Гримтурсом~
+Гримтурсе~
+Ледяной гигант проходит по деревне.
+~
+Это подземное горное чудовище, ледяной гигант, находящийся в дальнем 
+родстве с Варклапом.
+~
+c0d0f0g0n0o0x0A0 c0d0e0m0n0l1q1t1y1 -600 E
+32 0 -3 10d10+5500 19d18+25
+20d20+0 500000
+8 8 1
+Saves: -65 -14 -45 -14
+Resistances: -50 40 70 50 0 0 50
+Armour: 55
+CastSuccess: 35
+Absorbe: 32
+BareHandAttack: 6
+Str: 37
+Dex: 27
+Int: 16
+Wis: 18
+Con: 47
+Cha: 25
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 103
+Race: 104
+Height: 175
+Weight: 85
+Special_Bitvector: b1c1 
+Feat: 1
+Feat: 3
+Skill: 132 130
+Skill: 136 130
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+E
+T 70408
+#70409
+ варклап~
+Варклап~
+Варклапа~
+Варклапу~
+Варклапа~
+Варклапом~
+Варклапе~
+Каменный гигант осматривает непривычную для себя местность.
+~
+Каменные гиганты, дальние родственники троллей. Глаза его горят синими 
+огонечками. Ничего не боится. Людей они не едят, а вот поиграть любят - как 
+кошка с мышью. Только Варклап не понимает, что человек против него хрупкий, 
+и скоро заигрывает его до смерти. Любит отрывать руки и ноги.
+~
+c0d0f0g0n0o0x0A0 c0d0e0m0n0l1q1t1y1z1 -600 E
+33 0 -5 10d10+6500 19d19+30
+20d20+0 600000
+8 8 1
+Saves: -70 -18 -60 -18
+Resistances: 40 40 40 80 40 0 0
+Armour: 60
+CastSuccess: 26
+Success: 2
+Initiative: 2
+Absorbe: 33
+BareHandAttack: 6
+Str: 50
+Dex: 22
+Int: 21
+Wis: 21
+Con: 50
+Cha: 25
+Size: 100
+LikeWork: 90
+ExtraAttack: 1
+Class: 103
+Race: 104
+Height: 175
+Weight: 85
+Special_Bitvector: 0 
+Feat: 1
+Feat: 3
+Feat: 65
+Skill: 4 140
+Skill: 136 140
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+E
+T 70409
+#70410
+дух словенского ополченца~
+дух словенского ополченца~
+духа словенского ополченца~
+духу словенского ополченца~
+духа словенского ополченца~
+духом словенского ополченца~
+духе словенского ополченца~
+Бесплотный дух парит невысоко над землей.
+~
+Дух словенина, павшего в бою. Нет ему покоя и вынужден он вечно скитаться 
+вблизи своего дома.
+~
+d0n0o0p0q0r0x0z0b1 b0c0d0e0k0x0C0r1x1 -600 E
+30 3 -6 10d10+3000 16d16+35
+20d20+0 290000
+8 8 1
+Saves: -40 -10 -10 -10
+Resistances: 20 20 20 20 20 20 20
+Absorbe: 30
+Str: 32
+Dex: 32
+Int: 32
+Wis: 32
+Con: 32
+Cha: 32
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: l0b1c1B3 
+Feat: 3
+Feat: 29
+Skill: 21 100
+Skill: 136 100
+Skill: 157 100
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+E
+#70411
+дух викинга~
+дух викинга~
+духа викинга~
+духу викинга~
+духа викинга~
+духом викинга~
+духе викинга~
+Слабо мерцающий дух неторопливо летает тут.
+~
+Дух погибшего викинга, жаждет мести.
+~
+d0f0g0n0o0p0q0r0x0z0b1g2 b0c0d0e0k0x0C0r1 -600 E
+30 2 -6 10d10+3300 16d16+35
+20d20+0 310000
+8 8 1
+Saves: -65 -25 -25 -25
+Resistances: 40 40 40 40 40 40 40
+Armour: 55
+Absorbe: 30
+Str: 36
+Dex: 29
+Int: 28
+Wis: 28
+Con: 36
+Cha: 32
+Size: 100
+LikeWork: 80
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: l0b1c1 
+Feat: 1
+Feat: 3
+Feat: 29
+Skill: 1 110
+Skill: 5 110
+Skill: 136 110
+Skill: 142 110
+Skill: 146 110
+Spell: 75
+Spell: 75
+Spell: 75
+Spell: 75
+Spell: 75
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 104
+Spell: 114
+E
+$

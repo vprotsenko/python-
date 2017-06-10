@@ -1,0 +1,3330 @@
+#75200
+огромный паук патриарх~
+Огромный Паук-Патриарх~
+Огромного Паука-Патриарха~
+Огромному Пауку-Патриарху~
+Огромного Паука-Патриарха~
+Огромным Пауком-Патриархом~
+Огромном Пауке-Патриархе~
+Огромный паук готов разорвать любого, кто посягнет на его территорию.
+~
+Громадный мохнатый паук размером с небольшой терем.
+Его ядовитые жвала готовы вонзиться в очередную жертву,
+по неосторожности попавшую в его пещеру.
+~
+b0c0d0e0f0g0n0o0p0x0s1u2 d0e0f0k0m0n0z0A0C0j1m1o1r1x1y1z1c2 -600 E
+48 -20 -17 50d50+60000 25d25+40
+0d0+0 10000000
+8 8 1
+Saves: -78 -78 -100 -78
+Resistances: 40 40 40 40 0 0 0
+HPreg: 130
+Armour: 40
+CastSuccess: 71
+Absorbe: 48
+AResist: 30
+MResist: 40
+BareHandAttack: 11
+Str: 42
+Dex: 44
+Int: 30
+Wis: 31
+Con: 50
+Cha: 16
+Size: 100
+LikeWork: 80
+ExtraAttack: 6
+Class: 103
+Race: 100
+Height: 200
+Weight: 200
+Special_Bitvector: a0b0j0 
+Skill: 12 70
+Skill: 22 180
+Skill: 132 170
+Skill: 136 180
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 71
+Spell: 93
+Spell: 111
+Spell: 150
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 156
+Spell: 156
+E
+T 75205
+T 75206
+#75201
+элементаль темной воды~
+Элементаль Темной Воды~
+Элементаля Темной Воды~
+Элементалю Темной Воды~
+Элементаля Темной Воды~
+Элементалем Темной Воды~
+Элементале Темной Воды~
+Живая стихия воды восстала из темного озера.
+~
+Огромный элементаль, созданный темными силами, возвышается
+перед вами. Сила водной стихии наполняет его мышцы.
+~
+b0d0e0f0n0p0r0t0u0x0s1u2 c0d0e0f0k0r0z0A0m1q1r1x1y1z1 -600 E
+48 -10 -20 50d50+60000 20d16+40
+0d0+0 10000000
+8 8 1
+Saves: -80 -78 -150 -78
+Resistances: 0 0 300 0 10 10 10
+HPreg: 130
+Armour: 50
+CastSuccess: 71
+Success: 15
+Initiative: 10
+Absorbe: 48
+AResist: 30
+MResist: 30
+PResist: 10
+BareHandAttack: 6
+Str: 48
+Dex: 40
+Int: 36
+Wis: 40
+Con: 50
+Cha: 20
+Size: 50
+LikeWork: 80
+ExtraAttack: 3
+Class: 100
+Race: 114
+Height: 200
+Weight: 185
+Special_Bitvector: a0d0v0 
+Feat: 15
+Feat: 17
+Feat: 25
+Feat: 29
+Feat: 42
+Feat: 57
+Feat: 58
+Skill: 4 180
+Skill: 12 100
+Skill: 22 150
+Skill: 136 120
+Spell: 71
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+E
+T 75207
+T 75209
+#75202
+пламенный элементаль~
+Пламенный элементаль~
+Пламенного элементаля~
+Пламенному элементалю~
+Пламенного элементаля~
+Пламенным элементалем~
+Пламенном элементале~
+Дух огня парит над землей.
+~
+Сама огненная стихия выжигает все вокруг.
+~
+d0f0n0o0p0x0b1a2h2u2 d0e0f0k0x0z0A0m1p1r1y1e2 -600 E
+39 5 -14 15d15+9500 10d10+10
+0d0+0 2000000
+8 8 1
+Saves: -50 -50 -50 -50
+Resistances: 300 300 -40 -40 0 0 0
+Armour: 50
+CastSuccess: 67
+Initiative: 20
+Absorbe: 39
+MResist: 50
+PResist: 10
+BareHandAttack: 2
+Destination: 75220
+Destination: 75223
+Destination: 75224
+Str: 26
+Dex: 33
+Int: 40
+Wis: 48
+Con: 38
+Cha: 38
+Size: 50
+LikeWork: 100
+Class: 100
+Race: 114
+Height: 175
+Weight: 140
+Special_Bitvector: x0 
+Feat: 13
+Feat: 17
+Feat: 22
+Feat: 28
+Feat: 60
+Skill: 22 150
+Skill: 157 100
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 88
+Spell: 88
+Spell: 93
+Spell: 135
+Spell: 135
+E
+T 75212
+T 75213
+#75203
+огненный голем~
+Огненный голем~
+Огненного голема~
+Огненному голему~
+Огненного голема~
+Огненным големом~
+Огненном големе~
+Огонь, переплетённый с твердым камнем, готов сжечь вас.
+~
+Глыбы камня, между которыми течет лава и из щелей
+вырываются языки пламени. В глазницах всегда пылает
+огонь, первородный огонь из недр земли.
+~
+b0d0e0f0n0o0p0t0x0y0s1u2 d0e0f0k0A0m1p1r1t1y1e2 -600 E
+48 -10 -19 50d50+60000 25d25+50
+0d0+0 10000000
+8 8 1
+Saves: -100 -100 -100 -100
+Resistances: 70 70 -100 0 0 0 0
+HPreg: 200
+Armour: 60
+CastSuccess: 71
+Success: 20
+Initiative: 15
+Absorbe: 48
+PResist: 10
+BareHandAttack: 6
+Str: 50
+Dex: 30
+Int: 15
+Wis: 25
+Con: 50
+Cha: 5
+Size: 100
+LikeWork: 100
+ExtraAttack: 3
+Class: 100
+Race: 114
+Height: 200
+Weight: 200
+Special_Bitvector: a0x0 
+Feat: 13
+Feat: 17
+Feat: 21
+Feat: 25
+Feat: 29
+Feat: 41
+Feat: 42
+Feat: 53
+Feat: 57
+Feat: 65
+Skill: 4 170
+Skill: 22 170
+Skill: 136 170
+Spell: 58
+Spell: 58
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+E
+T 75215
+T 75216
+#75204
+костяная ведьма~
+костяная ведьма~
+костяной ведьмы~
+костяной ведьме~
+костяную ведьму~
+костяной ведьмой~
+костяной ведьме~
+Костяная ведьма готова осыпать вас своими проклятиями.
+~
+Мерзкий скелет женщины, облаченный в черный подраный балахон.
+~
+d0f0m0n0o0p0r0t0x0b1b2h2u2 b0d0e0f0k0x0z0A0o1r1x1y1z1 -600 E
+40 -10 -15 40d40+9500 10d20+30
+0d0+0 2500000
+8 8 2
+Saves: -100 -100 -100 -100
+Resistances: 50 50 50 50 20 20 20
+HPreg: 100
+Armour: 50
+PlusMem: 70
+CastSuccess: 100
+Success: 20
+Absorbe: 40
+AResist: 10
+MResist: 10
+PResist: 10
+Destination: 75221
+Destination: 75222
+Destination: 75225
+Str: 25
+Dex: 30
+Int: 40
+Wis: 45
+Con: 40
+Cha: 5
+Size: 100
+LikeWork: 100
+ExtraAttack: 1
+Class: 101
+Race: 112
+Height: 175
+Weight: 100
+Special_Bitvector: 0 
+Feat: 17
+Feat: 21
+Feat: 59
+Feat: 60
+Skill: 157 100
+Spell: 25
+Spell: 25
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 48
+Spell: 48
+Spell: 56
+Spell: 56
+Spell: 58
+Spell: 71
+Spell: 82
+Spell: 88
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 156
+E
+T 75220
+#75205
+кровавый лич~
+кровавый лич~
+кровавого лича~
+кровавому личу~
+кровавого лича~
+кровавым личом~
+кровавом личе~
+Жуткий лич готов насытиться вашей жизненной силой.
+~
+Отвратный скелет с пылающими зеленым пламенем глазницами.
+Он готов украсть любую жизненную силу для продолжения
+своего существования.
+~
+d0f0m0n0o0p0r0t0x0b1b2u2 c0d0e0f0k0x0z0A0C0m1o1t1x1z1e2 -600 E
+40 -5 -15 20d20+9500 15d15+25
+0d0+0 2700000
+8 8 1
+Saves: -100 -100 -100 -100
+Resistances: 50 50 50 50 20 20 20
+HPreg: 150
+Armour: 50
+PlusMem: 70
+CastSuccess: 90
+Success: 10
+Initiative: 10
+Absorbe: 40
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 6
+Destination: 75221
+Destination: 75222
+Destination: 75225
+Str: 20
+Dex: 20
+Int: 40
+Wis: 45
+Con: 35
+Cha: 7
+Size: 90
+ExtraAttack: 2
+Class: 101
+Race: 112
+Height: 200
+Weight: 120
+Special_Bitvector: 0 
+Feat: 3
+Feat: 4
+Feat: 17
+Feat: 21
+Feat: 29
+Feat: 30
+Feat: 59
+Feat: 60
+Feat: 68
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 59
+Spell: 59
+Spell: 62
+Spell: 62
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 93
+Spell: 93
+Spell: 93
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 150
+Spell: 150
+E
+T 75219
+#75206
+кровавый скелет~
+кровавый скелет~
+кровавого скелета~
+кровавому скелету~
+кровавого скелета~
+кровавым скелетом~
+кровавом скелете~
+Живой скелет готов к атаке.
+~
+Страшный скелет, облаченный в ржавые доспехи.
+~
+d0f0m0n0o0p0t0x0u2 d0e0f0k0z0C0j1m1r1t1 -600 E
+39 -7 -14 20d20+9500 25d18+40
+0d0+0 2000000
+8 8 1
+Saves: -100 -100 -100 -100
+Resistances: 50 50 50 50 20 20 20
+HPreg: 150
+Armour: 60
+CastSuccess: 44
+Success: 20
+Initiative: 15
+Absorbe: 39
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 6
+Str: 40
+Dex: 41
+Int: 20
+Wis: 20
+Con: 40
+Cha: 6
+Size: 90
+ExtraAttack: 1
+Class: 101
+Race: 112
+Height: 180
+Weight: 100
+Special_Bitvector: g0 
+Feat: 1
+Feat: 11
+Feat: 13
+Feat: 17
+Feat: 21
+Feat: 25
+Feat: 29
+Feat: 42
+Feat: 53
+Feat: 57
+Feat: 61
+Skill: 1 100
+Skill: 4 150
+Skill: 132 150
+Skill: 136 150
+Skill: 167 140
+E
+T 75222
+#75207
+костяной голем~
+костяной голем~
+костяного голема~
+костяному голему~
+костяного голема~
+костяным големом~
+костяном големе~
+Костяной голем готов нанести сокрушительный удар.
+~
+Голем, состоящий из костей и плоти, протягивает к вам свои лапищи.
+~
+d0f0m0n0o0p0x0u2 0 -600 E
+40 -10 -10 40d20+11000 25d25+40
+0d0+0 2500000
+8 8 1
+Saves: -100 -100 -100 -100
+Resistances: 50 50 50 50 20 20 20
+HPreg: 150
+Armour: 70
+CastSuccess: 47
+Success: 10
+Initiative: 10
+Absorbe: 40
+AResist: 10
+MResist: 10
+PResist: 10
+Destination: 75221
+Destination: 75222
+Destination: 75225
+Str: 40
+Dex: 35
+Int: 20
+Wis: 15
+Con: 50
+Cha: 5
+Size: 100
+ExtraAttack: 2
+Class: 101
+Race: 112
+Height: 200
+Weight: 200
+Special_Bitvector: g0 
+Feat: 13
+Feat: 17
+Feat: 29
+Feat: 57
+Feat: 61
+Feat: 65
+Feat: 66
+Feat: 68
+Skill: 1 100
+Skill: 4 170
+Skill: 132 170
+Skill: 136 170
+Skill: 137 100
+Skill: 167 100
+E
+T 75221
+#75208
+верховный лич~
+Верховный Лич~
+Верховного Лича~
+Верховному Личу~
+Верховного Лича~
+Верховным Личом~
+Верховном Личе~
+Величественный Лич готов обрушить свои смертельные проклятия.
+~
+Величественный лич облачен в темную рясу, которая горит темным пламенем смерти.
+В руках его полыхает смертоносный магический посох, в котором заключена огромная
+сила Черной Магии.
+~
+b0d0f0n0o0p0t0u0x0s1b2u2 d0e0f0k0x0A0q1r1x1z1d2e2 -600 E
+48 -9 -18 50d50+60000 25d18+40
+0d0+0 10000000
+8 8 1
+Saves: -100 -100 -150 -130
+Resistances: 70 70 70 70 20 20 20
+HPreg: 200
+Armour: 60
+PlusMem: 100
+CastSuccess: 110
+Success: 10
+Initiative: 10
+Absorbe: 48
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 6
+Str: 29
+Dex: 29
+Int: 40
+Wis: 48
+Con: 50
+Size: 100
+LikeWork: 100
+ExtraAttack: 2
+Class: 101
+Race: 112
+Height: 200
+Weight: 190
+Special_Bitvector: a0g0 
+Feat: 3
+Feat: 13
+Feat: 17
+Feat: 21
+Feat: 24
+Feat: 28
+Feat: 60
+Skill: 22 150
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 36
+Spell: 36
+Spell: 36
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 82
+Spell: 88
+Spell: 88
+Spell: 93
+Spell: 93
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 156
+Spell: 156
+E
+T 75223
+T 75224
+#75209
+элитный караульный проклятых~
+элитный караульный Проклятых~
+элитного караульного Проклятых~
+элитному караульному Проклятых~
+элитного караульного Проклятых~
+элитным караульным Проклятых~
+элитном караульном Проклятых~
+Элитный караульный несет здесь свой дозор.
+~
+Величественный караульный стражник, закованный в элитную броню,
+выставлен здесь в дозор для охраны чертогов.
+~
+b0d0f0m0n0o0p0t0x0u2 d0f0k0r0z0A0C0m1p1y1d2 -600 E
+40 -10 -18 30d30+8500 19d20+30
+1d1+5232 2500000
+8 8 1
+Saves: -100 -80 -100 -100
+Resistances: 40 40 40 40 10 10 10
+HPreg: 200
+Armour: 50
+CastSuccess: 47
+Success: 20
+Initiative: 20
+Absorbe: 40
+AResist: 15
+MResist: 15
+PResist: 15
+BareHandAttack: 12
+Str: 40
+Dex: 40
+Int: 30
+Wis: 30
+Con: 40
+Cha: 25
+Size: 50
+ExtraAttack: 1
+Class: 102
+Race: 101
+Height: 190
+Weight: 120
+Special_Bitvector: 0 
+Skill: 5 150
+Skill: 22 100
+Skill: 157 100
+Skill: 167 100
+E
+#75210
+дозорный маг проклятых~
+дозорный маг Проклятых~
+дозорного мага Проклятых~
+дозорному магу Проклятых~
+дозорного мага Проклятых~
+дозорным магом Проклятых~
+дозорном маге Проклятых~
+Дозорный маг обеспечивает магическую поддержку в карауле.
+~
+Высокий худощавый человек в бордовом балахоне
+обеспечивает магическую поддержку дозора.
+~
+b0d0f0m0n0o0p0t0x0u2 b0d0e0f0k0x0z0A0C0m1p1y1e2 -600 E
+40 -5 -10 30d30+7500 10d15+20
+1d1+5101 2500000
+8 8 1
+Saves: -70 -110 -120 -100
+Resistances: 50 50 50 50 10 10 10
+HPreg: 150
+Armour: 40
+PlusMem: 100
+CastSuccess: 100
+Success: 20
+Initiative: 20
+Absorbe: 40
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 6
+Str: 23
+Dex: 28
+Int: 40
+Wis: 45
+Con: 30
+Cha: 25
+Size: 50
+LikeWork: 100
+Class: 102
+Race: 101
+Height: 175
+Weight: 120
+Special_Bitvector: 0 
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 124
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 135
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+E
+#75211
+стрелок дозора проклятых~
+стрелок дозора Проклятых~
+стрелка дозора Проклятых~
+стрелку дозора Проклятых~
+стрелка дозора Проклятых~
+стрелком дозора Проклятых~
+стрелке дозора Проклятых~
+Меткий стрелок стоит здесь в карауле.
+~
+Мастер-лучник с коротким удобным луком. Он достиг совершенства
+в обращении с этим видом оружия и готов обрушить на вас град стрел.
+~
+b0d0f0m0n0o0p0r0t0x0u2 d0e0f0k0r0z0A0m1p1x1 -600 E
+40 -10 -20 20d20+8400 18d23+25
+1d1+4936 2500000
+8 8 1
+Saves: -100 -100 -120 -120
+Resistances: 50 50 50 50 10 10 10
+HPreg: 160
+Armour: 45
+CastSuccess: 47
+Success: 20
+Initiative: 20
+Absorbe: 40
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 9
+Str: 40
+Dex: 43
+Int: 25
+Wis: 30
+Con: 42
+Cha: 24
+Size: 50
+ExtraAttack: 2
+Class: 102
+Race: 101
+Height: 200
+Weight: 130
+Special_Bitvector: 0 
+Skill: 132 180
+Skill: 154 150
+Skill: 156 100
+Skill: 157 100
+E
+#75212
+мастер клинка проклятых~
+мастер клинка Проклятых~
+мастера клинка Проклятых~
+мастеру клинка Проклятых~
+мастера клинка Проклятых~
+мастером клинка Проклятых~
+мастере клинка Проклятых~
+Опытный мечник стоит здесь в карауле.
+~
+Этот человек каждый день оттачивает свое мастерство обращения
+с клинками. Вихрь его атак тяжело сдержать даже матерому воину.
+~
+b0d0f0m0n0o0p0r0t0x0s1u2 d0f0k0z0A0m1o1r1z1 -600 E
+40 -7 -20 23d32+8260 18d18+32
+1d1+6237 2700000
+8 8 1
+Saves: -140 -90 -120 -90
+Resistances: 45 45 45 45 15 15 15
+HPreg: 200
+Armour: 50
+CastSuccess: 47
+Success: 20
+Initiative: 20
+Absorbe: 40
+AResist: 13
+MResist: 13
+PResist: 13
+BareHandAttack: 3
+Str: 43
+Dex: 48
+Int: 27
+Wis: 30
+Con: 43
+Cha: 16
+Size: 50
+ExtraAttack: 1
+Class: 102
+Race: 101
+Height: 160
+Weight: 100
+Special_Bitvector: B3 
+Skill: 12 50
+Skill: 21 100
+Skill: 167 100
+E
+#75213
+арас~
+Арас~
+Араса~
+Арасу~
+Араса~
+Арасом~
+Арасе~
+Арас летает здесь.
+~
+Точная копия лучшего из волхвов, отображающая мельчайшие подробности
+и повадки. Однако, пустые безжизненные глаза выдают в нем двойника.
+~
+d0f0m0n0o0p0u0x0b1m2u2 b0c0d0e0f0k0x0z0A0o1r1x1y1z1e2 -600 E
+43 0 -10 30d30+8000 15d15+30
+100d199+554 5000000
+8 8 1
+Saves: -150 -100 -100 -120
+Resistances: 60 60 60 60 10 10 10
+HPreg: 100
+Armour: 45
+PlusMem: 100
+CastSuccess: 100
+Success: 10
+Initiative: 10
+Absorbe: 43
+AResist: 20
+MResist: 20
+PResist: 20
+BareHandAttack: 6
+Str: 34
+Dex: 30
+Int: 45
+Wis: 44
+Con: 40
+Cha: 33
+Size: 70
+LikeWork: 100
+Class: 105
+Race: 101
+Height: 190
+Weight: 130
+Special_Bitvector: 0 
+Feat: 13
+Feat: 14
+Feat: 16
+Feat: 17
+Feat: 21
+Feat: 28
+Feat: 30
+Feat: 59
+Feat: 60
+Feat: 82
+Feat: 83
+Feat: 84
+Feat: 85
+Skill: 20 180
+Skill: 141 200
+Skill: 166 180
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 38
+Spell: 38
+Spell: 38
+Spell: 47
+Spell: 53
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 71
+Spell: 71
+Spell: 71
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 79
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 137
+Spell: 137
+E
+T 75237
+#75214
+пилатий~
+Пилатий~
+Пилатия~
+Пилатию~
+Пилатия~
+Пилатием~
+Пилатии~
+Пилатий летает здесь.
+~
+Точная копия лучшего витязя. Меткого удара этого воина
+ждут в трудную минуту все его соратники и опасаются
+все его враги.
+~
+d0f0m0n0o0p0q0t0x0t1i2m2u2 c0d0f0k0x0z0A0C0q1r1x1y1z1e2 -600 E
+43 -10 -20 40d30+10000 25d40+30
+500d33+0 5000000
+8 8 1
+Saves: -120 -100 -120 -130
+Resistances: 50 50 50 50 20 20 20
+HPreg: 200
+Armour: 60
+CastSuccess: 56
+Success: 50
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 3
+Str: 50
+Dex: 40
+Int: 34
+Wis: 35
+Con: 50
+Cha: 30
+Size: 100
+LikeWork: 80
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 175
+Weight: 160
+Special_Bitvector: 0 
+Feat: 3
+Feat: 12
+Feat: 13
+Feat: 17
+Feat: 20
+Feat: 21
+Feat: 30
+Feat: 32
+Feat: 41
+Feat: 42
+Skill: 21 200
+Skill: 132 200
+Skill: 134 200
+Skill: 137 200
+Skill: 140 200
+Skill: 141 200
+Skill: 142 200
+Skill: 143 200
+Skill: 151 200
+Skill: 158 200
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Helper: 75213
+Helper: 75226
+E
+T 75236
+T 75233
+#75215
+стилар~
+Стилар~
+Стилара~
+Стилару~
+Стилара~
+Стиларом~
+Стиларе~
+Стилар летает здесь.
+~
+Точная копия лучшего дружинника. Его непробиваемость и ловкость
+служит ему и его соратникам по сей день.
+~
+d0f0m0n0o0p0r0x0m2u2 c0d0e0f0k0x0A0m1q1r1x1y1 -600 E
+43 -10 -25 50d50+10000 20d20+30
+100d10+11452 5000000
+8 8 1
+Saves: -147 -150 -185 -140
+Resistances: 50 50 50 50 38 38 40
+HPreg: 190
+Armour: 60
+CastSuccess: 56
+Success: 60
+Initiative: 30
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 7
+Str: 50
+Dex: 40
+Int: 30
+Wis: 36
+Con: 50
+Cha: 30
+Size: 70
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 184
+Weight: 130
+Special_Bitvector: 0 
+Feat: 2
+Feat: 3
+Feat: 12
+Feat: 13
+Feat: 17
+Feat: 20
+Feat: 21
+Feat: 22
+Feat: 32
+Feat: 37
+Feat: 41
+Feat: 42
+Feat: 53
+Feat: 55
+Feat: 58
+Feat: 61
+Feat: 65
+Skill: 12 150
+Skill: 22 200
+Skill: 132 200
+Skill: 137 100
+Skill: 143 200
+Skill: 158 150
+Helper: 75219
+Helper: 75218
+E
+T 75236
+T 75239
+T 75232
+#75216
+некрон~
+Некрон~
+Некрона~
+Некрону~
+Некрона~
+Некроном~
+Некроне~
+Некрон крадется здесь.
+~
+Точная копия лучшего наемника. Люд сбился со счета его жертв.
+Искусный убийца, пронзивший не одно сердце.
+~
+d0f0m0n0o0p0x0w1u2 b0d0f0k0r0s0t0x0z0A0m1q1x1 -600 E
+43 -10 -25 30d30+8500 30d40+40
+10d20+10253 5000000
+8 8 1
+Saves: -100 -100 -120 -150
+Resistances: 40 40 40 40 10 10 10
+HPreg: 150
+Armour: 40
+CastSuccess: 56
+Success: 25
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 11
+Str: 45
+Dex: 50
+Int: 33
+Wis: 33
+Con: 40
+Cha: 30
+Size: 50
+LikeWork: 90
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 180
+Weight: 100
+Special_Bitvector: 0 
+Feat: 3
+Feat: 8
+Feat: 21
+Feat: 23
+Feat: 33
+Feat: 36
+Feat: 57
+Skill: 22 200
+Skill: 131 200
+Skill: 133 200
+Skill: 138 200
+Skill: 147 200
+Skill: 160 200
+Skill: 167 200
+E
+T 75240
+#75217
+лескун~
+Лескун~
+Лескуна~
+Лескуну~
+Лескуна~
+Лескуном~
+Лескуне~
+Лескун крадется здесь.
+~
+Точная копия лучшего татя. Его проворство и сноровка не знают границ.
+Нет такой сокровищницы, где бы не ступала его нога.
+~
+c0d0f0m0n0o0p0x0A0w1k2u2 b0d0f0k0r0s0t0x0A0m1q1x1z1b2 -600 E
+43 -10 -25 40d30+7500 20d40+40
+0d0+0 5000000
+8 8 1
+Saves: -90 -90 -100 -180
+Resistances: 40 40 40 40 10 10 10
+HPreg: 190
+Armour: 40
+CastSuccess: 56
+Success: 30
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 11
+Str: 37
+Dex: 50
+Int: 30
+Wis: 30
+Con: 35
+Cha: 27
+Size: 50
+LikeWork: 90
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 175
+Weight: 100
+Special_Bitvector: a1 
+Feat: 17
+Feat: 21
+Feat: 22
+Feat: 23
+Feat: 33
+Feat: 36
+Feat: 42
+Feat: 53
+Feat: 58
+Skill: 131 200
+Skill: 133 180
+Skill: 135 180
+Skill: 138 180
+Skill: 139 180
+Skill: 147 180
+Skill: 157 180
+Skill: 160 200
+E
+#75218
+ханок~
+Ханок~
+Ханока~
+Ханоку~
+Ханока~
+Ханоком~
+Ханоке~
+Ханок летает здесь.
+~
+Точная копия лучшего среди волшебников. Самый
+изощренный в защитной магии и магии разума.
+~
+d0f0m0n0o0p0m2u2 b0c0d0e0f0k0r0x0z0A0m1q1x1y1z1e2 -600 E
+43 -10 -10 30d40+8000 15d10+30
+30d40+14832 5000000
+8 8 1
+Saves: -150 -90 -90 -130
+Resistances: 50 50 50 50 10 10 10
+HPreg: 100
+Armour: 30
+PlusMem: 100
+CastSuccess: 100
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 5
+Str: 28
+Dex: 28
+Int: 45
+Wis: 41
+Con: 33
+Cha: 34
+Size: 50
+LikeWork: 100
+Class: 105
+Race: 101
+Height: 175
+Weight: 130
+Special_Bitvector: 0 
+Feat: 17
+Feat: 21
+Feat: 30
+Feat: 42
+Feat: 59
+Feat: 62
+Feat: 63
+Feat: 67
+Spell: 47
+Spell: 53
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 71
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 126
+Spell: 126
+Spell: 126
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 140
+Spell: 140
+Spell: 141
+Spell: 141
+Spell: 142
+Spell: 142
+Spell: 151
+Spell: 151
+Spell: 155
+Spell: 155
+E
+#75219
+кудояр~
+Кудояр~
+Кудояра~
+Кудояру~
+Кудояра~
+Кудояром~
+Кудояре~
+Кудояр летает здесь.
+~
+Точная копия лучшего кудесника. Способность подчинять разум позволяет
+ему водить за собой сильных последователей, которые готовы обрушить
+на врага свои сокрушительные удары.
+~
+d0f0m0n0o0p0x0m2u2 b0c0d0e0f0k0x0z0A0m1o1r1y1e2 -600 E
+43 -5 -10 30d30+7360 12d14+20
+50d50+962 5000000
+8 8 1
+Saves: -120 -90 -90 -120
+Resistances: 50 50 50 50 10 10 10
+HPreg: 120
+Armour: 40
+PlusMem: 100
+CastSuccess: 100
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 5
+Str: 25
+Dex: 27
+Int: 41
+Wis: 42
+Con: 35
+Cha: 32
+Size: 50
+LikeWork: 100
+Class: 105
+Race: 101
+Height: 175
+Weight: 140
+Special_Bitvector: 0 
+Skill: 141 150
+Spell: 38
+Spell: 38
+Spell: 38
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+Spell: 153
+E
+T 75238
+#75220
+оленюша~
+Оленюша~
+Оленюши~
+Оленюше~
+Оленюшу~
+Оленюшей~
+Оленюше~
+Оленюша летает здесь.
+~
+Точная копия лучшей чернокнижницы. Силы смерти, подвластные
+ей, наводят ужас на окружающих.
+~
+d0f0m0n0o0p0u0x0k2m2u2 d0f0k0x0z0A0m1o1z1e2 -600 E
+43 0 -10 20d20+7600 15d18+25
+1d1+14632 5000000
+8 8 2
+Saves: -120 -90 -110 -115
+Resistances: 50 50 50 50 10 10 10
+HPreg: 150
+Armour: 40
+PlusMem: 100
+CastSuccess: 90
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 6
+Str: 27
+Dex: 30
+Int: 40
+Wis: 45
+Con: 30
+Cha: 34
+Size: 50
+LikeWork: 100
+Class: 105
+Race: 101
+Height: 175
+Weight: 110
+Special_Bitvector: 0 
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 71
+Spell: 71
+Spell: 71
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 112
+Spell: 112
+Spell: 137
+Spell: 137
+Spell: 137
+Spell: 139
+Spell: 139
+Spell: 139
+Spell: 139
+Spell: 139
+Spell: 156
+Spell: 156
+Spell: 156
+E
+#75221
+семсер752~
+Семсер~
+Семсера~
+Семсеру~
+Семсера~
+Семсером~
+Семсере~
+Семсер летает здесь.
+~
+Точная копия лучшего колдуна. Страшной силы заклинания,
+способные убить врага за долю секунды, подвластны ему.
+~
+d0f0m0n0o0p0r0u0x0m2u2 d0f0k0x0z0A0C0m1p1y1e2 -600 E
+43 5 -10 30d30+7500 15d15+10
+1d1+14326 5000000
+8 8 1
+Saves: -120 -90 -90 -90
+Resistances: 50 50 50 50 10 10 10
+HPreg: 150
+Armour: 50
+PlusMem: 100
+CastSuccess: 100
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 15
+MResist: 15
+PResist: 15
+BareHandAttack: 5
+Str: 30
+Dex: 35
+Int: 38
+Wis: 50
+Con: 34
+Cha: 33
+Size: 50
+Class: 105
+Race: 101
+Height: 175
+Weight: 110
+Special_Bitvector: 0 
+Spell: 9
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+E
+T 75273
+#75222
+лорелея~
+Лорелея~
+Лорелеи~
+Лорелее~
+Лорелею~
+Лорелеей~
+Лорелее~
+Лорелея летает здесь.
+~
+Точная копия лучшего лекаря. Лекарь всегда
+незаменим в походах, а такой тем более.
+~
+d0f0m0n0o0p0r0m2u2 d0f0h0k0r0x0z0A0C0m1q1x1c2d2e2 -600 E
+43 -10 -10 20d20+8000 20d25+20
+1d1+16205 5000000
+8 8 2
+Saves: -120 -90 -90 -100
+Resistances: 50 50 50 50 15 15 15
+HPreg: 150
+Armour: 50
+PlusMem: 100
+CastSuccess: 90
+Success: 20
+Initiative: 15
+Absorbe: 43
+AResist: 15
+MResist: 15
+PResist: 15
+BareHandAttack: 9
+Str: 30
+Dex: 33
+Int: 45
+Wis: 50
+Con: 35
+Cha: 30
+Size: 50
+LikeWork: 100
+ExtraAttack: 1
+Class: 105
+Race: 101
+Height: 190
+Weight: 130
+Special_Bitvector: 0 
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 41
+Spell: 41
+Spell: 41
+Spell: 41
+Spell: 41
+Spell: 41
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 92
+Spell: 92
+Spell: 92
+Spell: 92
+Spell: 92
+Spell: 92
+Spell: 92
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 143
+Spell: 143
+E
+T 75241
+#75223
+кайнур~
+Кайнур~
+Кайнура~
+Кайнуру~
+Кайнура~
+Кайнуром~
+Кайнуре~
+Кайнур летает здесь.
+~
+Точная копия лучшего купца. И хорошего помошника себе
+нанять, и продавца на базаре на денюжку раскрутить -
+на все он горазд.
+~
+d0f0m0n0o0p0u0m2u2 d0f0k0s0t0x0z0A0o1 -600 E
+43 -5 -20 20d20+8500 18d20+30
+1d1+20101 5000000
+8 8 1
+Saves: -100 -90 -90 -80
+Resistances: 50 50 50 50 10 10 10
+HPreg: 120
+Armour: 50
+PlusMem: 100
+CastSuccess: 80
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 2
+Str: 36
+Dex: 45
+Int: 40
+Wis: 30
+Con: 40
+Cha: 35
+Size: 50
+LikeWork: 100
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 178
+Weight: 120
+Special_Bitvector: 0 
+Skill: 22 200
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 15
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+E
+T 75254
+#75224
+масисстатуя~
+Масис~
+Масиса~
+Масису~
+Масиса~
+Масисом~
+Масисе~
+Масис стоит здесь.
+~
+Точная копия лучшего кузнеца. Мастер кузнечного дела - и доспех
+выковать, и топор... и хребет врагу в штаны топором загнать.
+~
+d0f0m0n0o0p0x0m2u2 d0f0k0r0z0A0C0m1o1z1 -600 E
+43 -10 -20 20d20+9000 25d50+40
+1d1+12001 5000000
+8 8 1
+Saves: -80 -130 -150 -120
+Resistances: 50 50 50 50 10 10 10
+HPreg: 150
+Armour: 60
+CastSuccess: 56
+Success: 10
+Initiative: 10
+Absorbe: 43
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 3
+Str: 48
+Dex: 35
+Int: 30
+Wis: 30
+Con: 40
+Cha: 30
+Size: 60
+LikeWork: 80
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 180
+Weight: 160
+Special_Bitvector: 0 
+Skill: 5 200
+Skill: 132 200
+Helper: 75221
+Helper: 75220
+E
+T 75236
+T 75234
+#75225
+бодик~
+Бодик~
+Бодика~
+Бодику~
+Бодика~
+Бодиком~
+Бодике~
+Бодик стоит здесь.
+~
+Точная копия лучшего охотника. Черная повязка закрывает оба
+его глаза, что вовсе не мешает ему безошибочно разить цели
+из своего старого, но добротного лука.
+~
+d0f0m0n0o0p0x0m2 d0f0k0z0A0j1m1o1z1 -600 E
+40 -5 -20 20d20+3500 15d20+25
+1d1+2366 2500000
+8 8 1
+Saves: -70 -90 -90 -90
+Resistances: 30 30 30 30 10 10 10
+HPreg: 100
+Armour: 30
+CastSuccess: 47
+Absorbe: 40
+AResist: 5
+MResist: 5
+PResist: 5
+BareHandAttack: 9
+Str: 40
+Dex: 44
+Int: 20
+Wis: 25
+Con: 30
+Cha: 20
+Size: 50
+LikeWork: 80
+ExtraAttack: 4
+Class: 104
+Race: 101
+Height: 175
+Weight: 100
+Special_Bitvector: j0 
+Skill: 132 200
+Skill: 154 200
+Skill: 156 100
+Helper: 75223
+Helper: 75222
+E
+T 75236
+T 75246
+T 75235
+#75226
+руська~
+Руська~
+Руськи~
+Руське~
+Руську~
+Руськой~
+Руське~
+Руська стоит здесь.
+~
+Точная копия лучшего богатыря. В кулаках этой девушки собрана
+сокрушительная сила, сметающая на своем пути всех врагов и обидчиков. 
+~
+d0f0m0n0o0p0r0t0m2u2 d0f0k0z0A0C0m1q1t1z1 -600 E
+43 -10 -20 30d30+9000 30d40+40
+1d1+19568 5000000
+8 8 2
+Saves: -100 -100 -130 -130
+Resistances: 50 50 50 50 10 10 10
+HPreg: 200
+Armour: 50
+CastSuccess: 56
+Success: 30
+Initiative: 20
+Absorbe: 43
+AResist: 15
+MResist: 15
+PResist: 15
+Str: 45
+Dex: 30
+Int: 30
+Wis: 30
+Con: 50
+Cha: 30
+Size: 60
+LikeWork: 80
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 180
+Weight: 120
+Special_Bitvector: 0 
+Skill: 4 200
+Skill: 136 200
+E
+#75227
+зеленая птица~
+Зеленая птица~
+Зеленой птицы~
+Зеленой птице~
+Зеленую птицу~
+Зеленой птицей~
+Зеленой птице~
+Горящая зеленым пламенем птица воинственно раскинула крылья.
+~
+Дивная птица, с полыхающим зеленым пламенем опереньем.
+~
+b0d0p0r0t0x0d2u2 d0f0k0x0m1r1e2 0 E
+32 -5 -25 25d25+1300 10d11+17
+0d0+0 0
+8 8 2
+Saves: -60 -60 -100 -100
+Resistances: 90 150 150 50 50 50 50
+HPreg: 100
+Armour: 40
+Absorbe: 20
+AResist: 20
+MResist: 20
+PResist: 20
+BareHandAttack: 2
+Str: 10
+Dex: 30
+Int: 30
+Wis: 50
+Con: 25
+Cha: 20
+Size: 50
+LikeWork: 100
+ExtraAttack: 3
+Class: 103
+Race: 103
+Height: 175
+Weight: 100
+Special_Bitvector: y0c1 
+Feat: 2
+Feat: 13
+Feat: 17
+Feat: 21
+Feat: 24
+Feat: 28
+Feat: 42
+Feat: 48
+Feat: 53
+Feat: 58
+Feat: 60
+Skill: 22 100
+Skill: 137 100
+E
+#75228
+эстор~
+Эстор~
+Эстора~
+Эстору~
+Эстора~
+Эстором~
+Эсторе~
+Эстор стоит здесь.
+~
+Точная копия воинственного предводителя наемников.
+Бескомпромиссный и не испытывающий угрызений совести
+кузнец, всегда готов раскроить ваш череп своим топором.
+~
+d0f0m0n0o0p0r0t0u0x0m2u2 d0f0k0z0A0m1q1x1z1 -600 E
+43 -10 -20 40d40+9000 30d28+40
+1d1+10889 5000000
+8 8 1
+Saves: -120 -120 -150 -130
+Resistances: 50 50 50 50 15 15 15
+HPreg: 200
+Armour: 60
+CastSuccess: 56
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 15
+MResist: 15
+PResist: 15
+BareHandAttack: 3
+Str: 50
+Dex: 40
+Int: 32
+Wis: 32
+Con: 45
+Cha: 29
+Size: 60
+LikeWork: 80
+ExtraAttack: 1
+Class: 104
+Race: 101
+Height: 190
+Weight: 125
+Special_Bitvector: 0 
+Feat: 6
+Feat: 13
+Feat: 17
+Feat: 25
+Feat: 31
+Feat: 33
+Feat: 41
+Feat: 45
+Feat: 47
+Feat: 49
+Feat: 57
+Feat: 61
+Feat: 65
+Skill: 5 200
+Skill: 132 200
+Skill: 142 200
+Skill: 165 100
+E
+T 75242
+T 75276
+#75229
+лойнис~
+Лойнис~
+Лойниса~
+Лойнису~
+Лойниса~
+Лойнисом~
+Лойнисе~
+Лойнис летает здесь.
+~
+Точная копия беспощадного чернокнижника наемников. Он всегда
+готов лишить жизни очередного зеваку, если ему за это хорошо заплатят.
+~
+d0f0m0n0o0p0u0x0k2m2u2 d0f0k0x0z0A0m1o1z1e2 -600 E
+43 0 -10 20d20+7600 15d18+25
+1d1+14632 5000000
+8 8 1
+Saves: -120 -90 -110 -115
+Resistances: 50 50 50 50 10 10 10
+HPreg: 150
+Armour: 40
+PlusMem: 100
+CastSuccess: 90
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+BareHandAttack: 6
+Str: 27
+Dex: 30
+Int: 40
+Wis: 45
+Con: 30
+Cha: 27
+Size: 50
+LikeWork: 100
+Class: 105
+Race: 101
+Height: 175
+Weight: 110
+Special_Bitvector: 0 
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 71
+Spell: 71
+Spell: 71
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 84
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 112
+Spell: 112
+Spell: 137
+Spell: 137
+Spell: 137
+Spell: 139
+Spell: 139
+Spell: 139
+Spell: 139
+Spell: 139
+Spell: 156
+Spell: 156
+Spell: 156
+E
+#75230
+исольв ледяная секира~
+Исольв Ледяная Секира~
+Исольва Ледяной Секиры~
+Исольву Ледяной Секире~
+Исольва Ледяную Секиру~
+Исольвом Ледяной Секирой~
+Исольву Ледяной Секире~
+Исольв Ледяная Секира стережет покой своего повелителя.
+~
+Огромный варяг служит верой и правдой своему повелителю.
+Прозвище свое он получил за секиру, сделанную из магического льда.
+~
+b0d0f0m0n0o0p0r0t0u0x0s1u2 d0e0f0k0z0A0C0m1q1r1t1x1y1z1d2e2 -600 E
+44 -10 -25 50d50+55000 30d40+40
+20d20+7536 6000000
+8 8 1
+Saves: -100 -100 -150 -100
+Resistances: 60 60 60 60 15 15 15
+HPreg: 200
+Armour: 60
+CastSuccess: 59
+Success: 20
+Initiative: 20
+Absorbe: 44
+AResist: 20
+MResist: 20
+BareHandAttack: 3
+Str: 50
+Dex: 45
+Int: 25
+Wis: 25
+Con: 50
+Cha: 15
+Size: 70
+ExtraAttack: 2
+Class: 102
+Race: 101
+Height: 200
+Weight: 150
+Special_Bitvector: b0 
+Skill: 5 200
+Skill: 22 200
+E
+T 75247
+T 75248
+#75231
+оспак кровавый~
+Оспак Кровавый~
+Оспака Кровавого~
+Оспаку Кровавому~
+Оспака Кровавого~
+Оспаком Кровавым~
+Оспаке Кровавом~
+Оспак Кровавый готов пополнить свою колекцию черепов.
+~
+Огромный варяг, о котором ходит дурная слава. Еще ниодин
+человек не выжил после встречи с этим чудовищем.
+~
+b0d0f0m0n0o0p0r0t0u0s1u2 d0f0k0r0z0A0m1q1r1t1z1d2e2 -600 E
+44 -10 -25 30d30+55000 30d30+40
+15d15+6932 6000000
+8 8 1
+Saves: -100 -100 -150 -100
+Resistances: 60 60 60 60 15 15 15
+HPreg: 200
+Armour: 60
+CastSuccess: 59
+Success: 20
+Initiative: 20
+Absorbe: 44
+AResist: 20
+MResist: 20
+BareHandAttack: 6
+Str: 50
+Dex: 44
+Int: 23
+Wis: 23
+Con: 50
+Cha: 7
+Size: 80
+ExtraAttack: 3
+Class: 102
+Race: 101
+Height: 200
+Weight: 150
+Special_Bitvector: g0 
+Skill: 5 200
+Skill: 22 200
+Skill: 136 200
+E
+T 75249
+T 75251
+#75232
+берсерк проклятых~
+берсерк Проклятых~
+берсерка Проклятых~
+берсерку Проклятых~
+берсерка Проклятых~
+берсерком Проклятых~
+берсерке Проклятых~
+Впавший в ярость берсерк готов к кровавой расправе.
+~
+В безумных глазах этого нелюдя читается безумие и жажда крови.
+Он готов хоть грызть зубами свою жертву, только бы увидеть как
+прольеться кровь. Об этих людях ходит дурная слава.
+~
+b0d0e0f0m0n0o0p0q0x0s1u2 d0e0f0k0z0A0C0m1o1r1z1 -600 E
+41 -10 -20 30d30+18000 20d20+40
+0d0+0 3000000
+8 8 1
+Saves: -90 -100 -90 -90
+Resistances: 40 40 40 40 10 10 10
+HPreg: 200
+Armour: 50
+CastSuccess: 50
+Success: 10
+Initiative: 10
+Absorbe: 41
+AResist: 15
+MResist: 15
+PResist: 15
+BareHandAttack: 3
+Str: 43
+Dex: 40
+Int: 15
+Wis: 15
+Con: 50
+Cha: 15
+Size: 70
+ExtraAttack: 2
+Class: 102
+Race: 101
+Height: 180
+Weight: 160
+Special_Bitvector: 0 
+Skill: 5 170
+Skill: 22 160
+Skill: 132 160
+Skill: 136 170
+Skill: 165 140
+E
+T 75252
+#75233
+копейщик проклятых~
+копейщик Проклятых~
+копейщика Проклятых~
+копейщику Проклятых~
+копейщика Проклятых~
+копейщиком Проклятых~
+копейщике Проклятых~
+Воин, искусно владеющий копьем, стоит здесь.
+~
+Этот человек достиг совершенства в ведении боя копьем.
+Его молниеносные выпады могут застать врасплох любого.
+~
+d0f0m0n0o0p0t0u0x0u2 d0e0f0k0m1o1x1y1z1e2 -600 E
+41 -8 0 40d30+16000 18d18+20
+1d1+2653 3000000
+8 8 1
+Saves: -60 -100 -130 -90
+Resistances: 50 50 50 50 15 15 15
+HPreg: 180
+Armour: 50
+CastSuccess: 50
+Success: 10
+Initiative: 10
+Absorbe: 41
+AResist: 10
+MResist: 10
+PResist: 10
+BareHandAttack: 12
+Str: 45
+Dex: 42
+Int: 20
+Wis: 20
+Con: 45
+Cha: 20
+Size: 50
+ExtraAttack: 1
+Class: 102
+Race: 101
+Height: 175
+Weight: 140
+Special_Bitvector: 0 
+Skill: 132 200
+Skill: 148 200
+E
+#75234
+эстор~
+Эстор~
+Эстора~
+Эстору~
+Эстора~
+Эстором~
+Эсторе~
+Эстор стоит здесь.
+~
+Точная копия воинственного предводителя наемников.
+Бескомпромиссный и не испытывающий угрызений совести
+кузнец, всегда готов раскроить ваш череп своим топором.
+~
+d0f0m0n0o0p0r0t0u0x0m2u2 d0f0k0z0A0m1q1x1z1 -600 E
+43 -10 -20 40d40+9000 30d35+40
+1d1+10889 5000000
+8 8 1
+Saves: -120 -120 -150 -130
+Resistances: 50 50 50 50 15 15 15
+HPreg: 200
+Armour: 60
+CastSuccess: 56
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 15
+MResist: 15
+BareHandAttack: 3
+Str: 50
+Dex: 40
+Int: 32
+Wis: 32
+Con: 45
+Cha: 50
+Size: 60
+LikeWork: 90
+ExtraAttack: 4
+Class: 104
+Race: 101
+Height: 190
+Weight: 125
+Special_Bitvector: 0 
+Skill: 5 200
+Skill: 132 200
+Skill: 142 200
+E
+#75235
+лешко~
+Лешко~
+Лешко~
+Лешко~
+Лешко~
+Лешко~
+Лешко~
+Лешко летает здесь.
+~
+Точная копия волшебника наемников. Он провел большую часть
+времени в походах и сражениях. Его опыт и холодный расчет
+частенько приносили пользу соратникам в кровавых битвах.
+~
+d0f0m0n0o0p0m2u2 b0c0d0e0f0k0r0x0z0A0m1q1x1y1z1e2 -600 E
+43 -10 -10 30d40+8000 15d10+30
+30d40+14832 5000000
+8 8 1
+Saves: -150 -90 -90 -130
+Resistances: 50 50 50 50 10 10 10
+HPreg: 100
+Armour: 30
+PlusMem: 100
+CastSuccess: 100
+Success: 20
+Initiative: 20
+Absorbe: 43
+AResist: 10
+MResist: 10
+BareHandAttack: 5
+Str: 28
+Dex: 28
+Int: 45
+Wis: 41
+Con: 33
+Cha: 28
+Size: 50
+LikeWork: 100
+Class: 105
+Race: 101
+Height: 175
+Weight: 130
+Special_Bitvector: 0 
+Feat: 17
+Feat: 21
+Feat: 30
+Feat: 42
+Feat: 59
+Feat: 62
+Feat: 63
+Feat: 67
+Spell: 47
+Spell: 53
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 55
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 71
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 126
+Spell: 126
+Spell: 126
+Spell: 127
+Spell: 127
+Spell: 127
+Spell: 140
+Spell: 140
+Spell: 141
+Spell: 141
+Spell: 142
+Spell: 142
+Spell: 151
+Spell: 151
+Spell: 155
+Spell: 155
+E
+T 75245
+#75236
+ниташи~
+Ниташи~
+Ниташи~
+Ниташи~
+Ниташи~
+Ниташи~
+Ниташи~
+Распространяющая смерть и чуму Ниташи стоит здесь.
+~
+Верховный некромант Проклятых, не знающая жалости и сострадания.
+Ее взаимодействие с магией смерти не прошло бесследно - сама она
+все больше становится похожа на мертвеца - впалые глаза, бледная
+высохшая кожа, шаркающая походка и неприятный запах.
+~
+b0d0f0m0n0o0p0r0t0u0x0s1u2 d0e0f0k0z0A0C0m1q1r1x1y1z1e2 -600 E
+45 -10 -15 40d40+25000 15d15+30
+1d1+41002 7000000
+8 8 2
+Saves: -90 -140 -140 -140
+Resistances: 70 70 70 0 20 20 20
+HPreg: 200
+Armour: 50
+PlusMem: 100
+CastSuccess: 120
+Initiative: 10
+Absorbe: 45
+AResist: 20
+MResist: 20
+PResist: 20
+BareHandAttack: 5
+Str: 30
+Dex: 30
+Int: 50
+Wis: 50
+Con: 35
+Cha: 20
+Size: 50
+LikeWork: 100
+Class: 101
+Race: 110
+Height: 175
+Weight: 100
+Special_Bitvector: 0 
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 25
+Spell: 25
+Spell: 25
+Spell: 25
+Spell: 25
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 88
+Spell: 88
+Spell: 93
+Spell: 93
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 111
+Spell: 137
+Spell: 137
+Spell: 137
+Spell: 137
+Spell: 137
+Spell: 156
+Spell: 156
+Spell: 156
+E
+T 75255
+T 75256
+#75237
+чернокнижник проклятых~
+чернокнижник Проклятых~
+чернокнижника Проклятых~
+чернокнижнику Проклятых~
+чернокнижника Проклятых~
+чернокнижником Проклятых~
+чернокнижнике Проклятых~
+Кровавый чернокнижник стоит здесь.
+~
+Этот человек постиг азы черной магии смерти и
+подчиняется верховному некроманту Ниташи.
+~
+b0d0f0m0n0o0p0r0t0u0u2 d0e0f0k0z0A0C0o1r1x1y1z1e2 -600 E
+38 -5 -10 20d40+9000 15d10+20
+10d10+4325 1800000
+8 8 1
+Saves: -90 -90 -120 -100
+Resistances: 50 50 50 50 15 15 15
+HPreg: 200
+Armour: 50
+PlusMem: 100
+CastSuccess: 100
+Absorbe: 38
+AResist: 20
+MResist: 20
+PResist: 20
+BareHandAttack: 5
+Str: 25
+Dex: 25
+Int: 40
+Wis: 40
+Con: 30
+Cha: 30
+Size: 50
+LikeWork: 100
+Class: 102
+Race: 101
+Height: 175
+Weight: 120
+Special_Bitvector: 0 
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 25
+Spell: 25
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 76
+Spell: 82
+Spell: 82
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 98
+E
+T 75257
+#75238
+колдун проклятых~
+колдун Проклятых~
+колдуна Проклятых~
+колдуну Проклятых~
+колдуна Проклятых~
+колдуном Проклятых~
+колдуне Проклятых~
+Колдун Проклятых готов обрушить на вас всю силу заклинаний.
+~
+Этот человек постиг сокрушительные заклинания школы магии.
+Изо дня в день он практикуется в магии огня, воды, воздуха и земли,
+однако делает он это не во благо, а ради наживы и расправы над людьми.
+~
+b0d0f0m0n0o0p0r0t0u0u2 d0e0f0k0z0A0C0o1r1x1y1z1e2 -600 E
+38 -5 -10 20d40+9000 15d10+20
+10d10+4325 1800000
+8 8 1
+Saves: -90 -90 -120 -100
+Resistances: 50 50 50 50 15 15 15
+HPreg: 200
+Armour: 50
+PlusMem: 100
+CastSuccess: 100
+Absorbe: 38
+AResist: 20
+MResist: 20
+BareHandAttack: 5
+Str: 25
+Dex: 25
+Int: 40
+Wis: 40
+Con: 30
+Cha: 25
+Size: 50
+LikeWork: 100
+Class: 102
+Race: 101
+Height: 175
+Weight: 120
+Special_Bitvector: 0 
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+E
+T 75258
+#75239
+римус~
+Римус~
+Римуса~
+Римусу~
+Римуса~
+Римусом~
+Римусе~
+Безумный колдун Римус стоит здесь.
+~
+Этот человек давно потерял последние остатки разума.
+Его мозг заполонила жажда наживы, он получает громадное
+удовольствие, когда огненный шар, пущенный им, оставляет
+от человека лишь маленькую кучку пепла.
+~
+b0d0f0m0n0o0p0r0t0u0x0s1u2 d0e0f0k0z0A0C0m1q1r1x1y1z1e2 -600 E
+45 -10 -15 40d40+30000 15d15+30
+1d1+41002 7000000
+8 8 1
+Saves: -90 -140 -140 -140
+Resistances: 70 70 70 0 20 20 20
+HPreg: 200
+Armour: 50
+PlusMem: 100
+CastSuccess: 120
+Initiative: 10
+Absorbe: 45
+AResist: 20
+MResist: 20
+BareHandAttack: 5
+Str: 30
+Dex: 30
+Int: 50
+Wis: 50
+Con: 35
+Cha: 30
+Size: 50
+LikeWork: 100
+Class: 102
+Race: 101
+Height: 175
+Weight: 100
+Special_Bitvector: 0 
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 54
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 82
+Spell: 82
+Spell: 82
+Spell: 88
+Spell: 88
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 113
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 134
+E
+T 75259
+T 75260
+T 75261
+#75240
+небесный судья~
+небесный судья~
+небесного судьи~
+небесному судье~
+небесного судью~
+небесным судьёй~
+небесном судье~
+Небесный каратель готов свершить суд над врагами.
+~
+Прозрачная фигура воина со щитом и копьем.
+Таких воинов кличут судьями небесными - по
+первому зову приходят они на помощь высшим
+магам и вершат суд богов над неверными.
+~
+d0f0m0n0o0x0s1u2 d0f0h0k0o1d2e2 -600 E
+33 0 -10 20d20+7500 10d10+20
+0d0+0 600000
+8 8 1
+Saves: -50 -50 -50 -70
+Resistances: 50 50 50 50 10 10 10
+HPreg: 150
+Armour: 50
+PlusMem: 100
+CastSuccess: 80
+Success: 10
+Initiative: 10
+Absorbe: 33
+AResist: 10
+MResist: 10
+PResist: 10
+Str: 20
+Dex: 20
+Int: 45
+Wis: 50
+Con: 20
+Cha: 20
+Size: 50
+LikeWork: 100
+ExtraAttack: 1
+Class: 100
+Race: 114
+Height: 175
+Weight: 140
+Special_Bitvector: 0 
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+Spell: 94
+E
+#75241
+мастер ключник~
+ключник~
+ключника~
+ключнику~
+ключника~
+ключником~
+ключнике~
+Мастер ключник сидит здесь.
+~
+Мастер изготовления магических ключей.
+Нет равных ему в этом деле. Давно никто
+не видел его на просторах Руси, поговаривают,
+не с теми людьми он связался.
+~
+d0B0 d0f0k0n1p1 600 E
+30 20 0 2d2+3000 5d5+50
+0d0+0 0
+6 6 1
+Saves: -50 -50 -50 -50
+Resistances: 100 100 100 100 100 100 100
+HPreg: 200
+Armour: 100
+Absorbe: 100
+AResist: 100
+MResist: 100
+PResist: 100
+Str: 30
+Dex: 30
+Int: 30
+Wis: 30
+Con: 30
+Cha: 30
+Size: 50
+ExtraAttack: 8
+Class: 102
+Race: 101
+Height: 175
+Weight: 140
+Special_Bitvector: 0 
+E
+T 75263
+#75242
+дружинник княжеского отряда~
+дружинник княжеского отряда~
+дружинника княжеского отряда~
+дружиннику княжеского отряда~
+дружинника княжеского отряда~
+дружинником княжеского отряда~
+дружиннике княжеского отряда~
+Закаленный в боях дружинник княжеского отряда сидит здесь.
+~
+Здоровый дядька с алеющим на левой щеке свежим шрамом.
+~
+d0e0n0o0p0q0r0t0u0x0y0B0u2 d0f0k0q1r1x1y1z1 600 E
+45 -10 -25 50d50+3200 10d10+30
+0d0+0 0
+5 5 1
+Saves: -200 -200 -200 -200
+Resistances: 70 70 70 70 50 50 50
+Armour: 80
+Absorbe: 80
+AResist: 100
+MResist: 100
+PResist: 100
+BareHandAttack: 3
+Str: 40
+Dex: 40
+Int: 40
+Wis: 40
+Con: 40
+Cha: 40
+Size: 80
+ExtraAttack: 3
+Class: 102
+Race: 101
+Height: 200
+Weight: 140
+Special_Bitvector: 0 
+E
+T 75264
+T 75265
+T 75266
+T 75274
+#75243
+безумный пес~
+безумный пес~
+безумного пса~
+безумному псу~
+безумного пса~
+безумным псом~
+безумном псе~
+Обезумевшее животное готово вонзить свои клыки в вашу шею.
+~
+Безумное животное, натасканое на убийство людей.
+~
+d0e0f0m0n0o0p0r0t0x0i2u2 d0e0f0k0z0A0C0m1p1r1d2e2 -600 E
+38 -10 -22 25d40+14000 20d20+40
+0d0+0 1800000
+8 8 1
+Saves: -100 -100 -100 -100
+Resistances: 70 70 70 70 20 20 20
+HPreg: 200
+Armour: 50
+CastSuccess: 41
+Success: 30
+Initiative: 30
+Absorbe: 38
+AResist: 25
+MResist: 25
+BareHandAttack: 4
+Str: 40
+Dex: 40
+Int: 15
+Wis: 15
+Con: 40
+Cha: 15
+Size: 50
+ExtraAttack: 1
+Class: 103
+Race: 104
+Height: 175
+Weight: 140
+Special_Bitvector: 0 
+Skill: 22 200
+E
+#75244
+вильгельм~
+Вильгельм~
+Вильгельма~
+Вильгельму~
+Вильгельма~
+Вильгельмом~
+Вильгельме~
+Повелитель Проклятых восседает здесь на темном троне.
+~
+Этого человека проклинают и ненавидят. Он - безжалостный убийца.
+Поговаривают, кто видел его - того уже не видел никто. Искусный
+воин, которому благоволят темные силы.
+~
+b0d0e0f0n0o0p0r0t0u0x0s1u2 d0e0f0k0z0A0m1o1t1x1y1z1e2 -600 E
+48 -20 -25 50d50+60000 30d30+50
+5d5+75026 10000000
+8 8 1
+Saves: -100 -150 -150 -110
+Resistances: 70 70 70 70 50 50 50
+HPreg: 200
+Armour: 70
+PlusMem: 100
+CastSuccess: 88
+Success: 20
+Initiative: 20
+Absorbe: 60
+AResist: 30
+MResist: 30
+PResist: 10
+BareHandAttack: 2
+Str: 50
+Dex: 50
+Int: 30
+Wis: 30
+Con: 50
+Cha: 20
+Size: 70
+LikeWork: 100
+ExtraAttack: 2
+Class: 102
+Race: 101
+Height: 200
+Weight: 125
+Special_Bitvector: 0 
+Skill: 5 200
+Skill: 12 150
+Skill: 22 200
+Skill: 136 200
+Skill: 179 200
+Spell: 25
+Spell: 25
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 68
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 93
+Spell: 93
+Spell: 94
+Spell: 94
+Spell: 98
+Spell: 98
+Spell: 98
+Spell: 111
+Spell: 134
+Spell: 134
+Spell: 134
+Spell: 137
+Spell: 137
+Spell: 151
+Spell: 151
+Helper: 75225
+Helper: 75224
+Helper: 75214
+Helper: 75215
+Helper: 75246
+Helper: 75245
+Helper: 75243
+Role: 000000001
+E
+T 75270
+T 75271
+#75245
+рында Вильгельма~
+рында Вильгельма~
+рынды Вильгельма~
+рынде Вильгельма~
+рынду Вильгельма~
+рындой Вильгельма~
+рынде Вильгельма~
+Рында Вильгельма явился исполнить свой долг.
+~
+Здоровый, явно сильный мужик, поклявшийся сложить голову,
+защищая Вильгельма от любой опасности. Лучше не вставать
+у него на пути!
+~
+b0c0d0e0f0p0t0x0s1w1i2u2 d0f0k0q1 -600 E
+40 -5 -20 1d100+50000 20d20+30
+5d400+1000 2500000
+8 8 1
+Saves: -46 -46 -46 -46
+CastSuccess: 47
+Absorbe: 40
+BareHandAttack: 5
+Str: 20
+Dex: 20
+Int: 40
+Wis: 45
+Con: 35
+Cha: 15
+Size: 100
+LikeWork: 90
+ExtraAttack: 2
+Class: 102
+Race: 101
+Height: 198
+Weight: 200
+Special_Bitvector: 0 
+Skill: 1 100
+Skill: 4 150
+Skill: 132 150
+Skill: 136 150
+Skill: 137 200
+E
+#75246
+рында Вильгельма~
+рында Вильгельма~
+рынды Вильгельма~
+рынде Вильгельма~
+рынду Вильгельма~
+рындой Вильгельма~
+рынде Вильгельма~
+Рында Вильгельма явился исполнить свой долг.
+~
+Здоровый, явно сильный мужик, поклявшийся сложить голову,
+защищая Вильгельма от любой опасности. Лучше не вставать
+у него на пути!
+~
+b0d0e0f0p0t0x0s1w1i2u2 d0f0k0o1 -600 E
+40 -5 -20 1d100+50000 20d20+30
+5d400+1000 2500000
+8 8 1
+Saves: -46 -46 -46 -46
+CastSuccess: 47
+Absorbe: 40
+BareHandAttack: 3
+Str: 20
+Dex: 20
+Int: 40
+Wis: 45
+Con: 35
+Cha: 15
+Size: 100
+ExtraAttack: 2
+Class: 102
+Race: 101
+Height: 198
+Weight: 200
+Special_Bitvector: 0 
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 82
+Spell: 82
+Spell: 88
+Spell: 88
+Spell: 98
+Spell: 113
+Spell: 113
+Spell: 137
+Spell: 137
+Spell: 137
+E
+#75247
+двойник семсера~
+двойник Семсера~
+двойника Семсера~
+двойнику Семсера~
+двойника Семсера~
+двойником Семсера~
+двойнике Семсера~
+*Двойник Семсера летает здесь.
+~
+Точная копия своего владельца.
+~
+b0d0f0m0t0z0a1g2 d0f0k0 0 E
+43 5 -10 30d30+2500 15d15+10
+0d0+0 0
+8 8 1
+CastSuccess: 100
+Wis: 20
+Con: 9
+Size: 30
+LikeWork: 100
+ExtraAttack: 1
+Class: 102
+Race: 101
+Height: 198
+Weight: 200
+Special_Bitvector: 0 
+Skill: 137 200
+E
+T 75272
+T 75228
+$

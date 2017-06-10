@@ -1,0 +1,17 @@
+class Test:
+
+    def __init__(self):
+        self.l=[1,2,3,4,5]
+
+    def print_a(self):
+        print(self.l)
+
+
+a=Test()
+b=Test()
+
+a.l.append(6)
+
+
+a.print_a()
+b.print_a()

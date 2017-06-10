@@ -1,0 +1,1189 @@
+#26700
+ пылающий ликом колдун~
+пылающий ликом колдун~
+пылающего ликом колдуна~
+пылающему ликом колдуну~
+пылающего ликом колдуна~
+пылающим ликом колдуном~
+пылающем ликом колдуне~
+Пылающий ликом маг зло зыркает глазами.
+~
+   Щупленькое тельце, еле прикрытое оборванной
+одеждой. Кажется, убить одним ударом можно..
+Но пламя, окружающее мага, показывает, что перед
+вами сильный противник.
+~
+d0f0l0m0n0z0g2 b0d0f0k0x0z0 -600 E
+30 0 0 30d30+2500 10d11+11
+10d10+25 320000
+8 8 1
+Resistances: 40 40 40 40 40 40 40
+Armour: 40
+CastSuccess: 90
+Absorbe: 30
+BareHandAttack: 2
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 90
+MaxFactor: 30
+ExtraAttack: 1
+Class: 101
+Race: 110
+Height: 150
+Weight: 150
+Special_Bitvector: 0 
+Feat: 2
+Feat: 3
+Skill: 157 100
+Spell: 28
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+E
+T 26702
+T 26725
+#26701
+Темный Страж ~
+темный стражник~
+темного стражника~
+темному стражнику~
+темного стражника~
+темным стражником~
+темном стражнике~
+Темный страж летает здесь.
+~
+Темный призрачный воин с огромным мечом в
+руках. В его теле, состоящем из тумана, видны
+дыры, светящиеся магическим сиянием.
+
+~
+d0j0l0m0n0v0z0g2 c0d0e0f0k0x0m1 -600 E
+31 0 0 40d50+3300 10d15+18
+5d2+10 400000
+8 8 1
+Saves: -10 -10 -10 -10
+Resistances: 40 40 40 40 40 40 40
+Armour: 50
+CastSuccess: 40
+Absorbe: 31
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 95
+MaxFactor: 80
+ExtraAttack: 1
+Class: 101
+Race: 110
+Height: 100
+Weight: 150
+Special_Bitvector: C3 
+Feat: 2
+Feat: 3
+Skill: 22 100
+Skill: 132 100
+Skill: 137 200
+Skill: 146 100
+Spell: 28
+Spell: 82
+Spell: 88
+Spell: 88
+E
+T 26703
+T 26704
+#26702
+дух оружейника~
+дух оружейника~
+духа оружейника~
+духу оружейника~
+дух оружейника~
+духом оружейника~
+духе оружейника~
+Дух оружейника летает здесь.
+~
+    Неупокоенный дух хранителя оружейни готов 
+защищать склад оружия до своей второй смерти..
+А потом и до третьей, и до четвертой, и так целую
+вечность.
+
+~
+d0f0l0m0n0z0 b0d0e0f0k0x0r1w1 -600 E
+32 0 0 20d20+4000 12d12+10
+5d10+4 480000
+8 8 1
+Saves: -14 -14 -14 -14
+Resistances: 40 40 40 40 40 40 40
+Armour: 50
+CastSuccess: 70
+Absorbe: 32
+BareHandAttack: 2
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 85
+MaxFactor: 70
+ExtraAttack: 2
+Class: 101
+Race: 111
+Height: 166
+Weight: 150
+Special_Bitvector: b1c1 
+Feat: 2
+Feat: 3
+Skill: 1 100
+Skill: 150 100
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+Spell: 23
+E
+T 26705
+T 26726
+#26703
+призрак тюремщика~
+призрак тюремщика~
+призрака тюремщика~
+призраку тюремщика~
+призрак тюремщика~
+призраком тюремщика~
+призраке тюремщика~
+Призрак тюремщика летает здесь.
+~
+     Прозрачное, легкое облачко красного цвета.. 
+Это бывший тюремщик и сейчас он готов убить вас.
+
+~
+d0f0m0z0 d0k0x0u1 -600 E
+32 0 0 40d40+4000 20d20+2
+2d9+30 460000
+8 8 1
+Saves: -14 -14 -14 -14
+Resistances: 40 40 40 40 40 40 40
+Armour: 40
+CastSuccess: 40
+Absorbe: 32
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 80
+MaxFactor: 25
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 150
+Weight: 140
+Special_Bitvector: 0 
+Feat: 2
+Feat: 3
+Skill: 132 100
+Skill: 134 100
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 28
+E
+T 26727
+#26704
+пленник~
+пленник~
+пленника~
+пленнику~
+пленника~
+пленником~
+пленнике~
+Пленник лежит здесь связанный.
+~
+    Истерзанное худое тело в грязных обмотках. 
+давно он сидит в этой темнице. Быть может стоит 
+развязать его ?
+
+~
+b0d0B0 d0f0k0 0 E
+1 1 1 1d1+1 11d11+111
+1d111+11 1
+6 6 1
+Absorbe: 1
+Str: 8
+Int: 8
+Con: 8
+Cha: 8
+Size: 100
+ExtraAttack: 1
+Class: 102
+Race: 101
+Height: 100
+Weight: 100
+Special_Bitvector: 0 
+E
+T 26706
+#26705
+хрустальный голем существо~
+хрустальный голем~
+хрустального голема~
+хрустальному голему~
+хрустального голема~
+хрустальным големом~
+хрустальном големе~
+Массивное существо, сделанное из хрусталя бродит здесь.
+~
+    Все его тело, руки, ноги, голова сделаны из 
+хрусталя. На первый взгляд, он довольно
+ неповоротлив но это обманчивое впечатление.
+
+~
+d0f0m0n0z0 d0e0f0k0 -600 E
+33 0 0 25d75+5000 15d25+9
+3d3+10 550000
+8 8 1
+Saves: -18 -18 -18 -18
+Resistances: 40 40 40 40 40 40 40
+Armour: 100
+CastSuccess: 40
+Absorbe: 33
+BareHandAttack: 6
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 101
+Race: 109
+Height: 180
+Weight: 150
+Special_Bitvector: c1 
+Feat: 2
+Feat: 3
+Skill: 5 100
+Skill: 21 10
+Skill: 132 100
+Spell: 28
+Spell: 28
+Spell: 134
+E
+T 26708
+I глаза,10:10
+#26706
+хрустальные осколки~
+хрустальные осколки~
+хрустальных осколков~
+хрустальным осколкам~
+хрустальные осколки~
+хрустальными осколками~
+хрустальных осколках~
+Хрустальные осколки готовы проткнуть вас насквозь.
+~
+    Кучка осколков хрусталя, готовая кинуться в бой.
+
+~
+d0f0m0n0z0 0 -600 E
+28 0 0 45d45+500 5d5+9
+1d1+1 190000
+8 8 3
+Resistances: 40 40 40 40 40 40 40
+Armour: 100
+CastSuccess: 40
+Absorbe: 28
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Size: 100
+LikeWork: 50
+ExtraAttack: 2
+Class: 101
+Race: 110
+Height: 150
+Weight: 150
+Special_Bitvector: 0 
+Skill: 132 200
+Spell: 56
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+Spell: 66
+E
+#26707
+каменный голем~
+каменный голем~
+каменного голема~
+каменному голему~
+каменного голема~
+каменным големом~
+каменном големе~
+Каменный голем стучит здесь лапами.
+~
+    Огромная махина из камня, тяжелая, 
+неповоротливая, готовая растереть вас в порошок.
+
+~
+d0e0f0l0m0n0z0 d0k0 -600 E
+33 0 0 20d40+5000 20d20+9
+1d11+10 550000
+8 8 1
+Saves: -18 -18 -18 -18
+Resistances: 40 40 40 40 40 40 40
+Armour: 100
+CastSuccess: 75
+Absorbe: 33
+BareHandAttack: 6
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 90
+ExtraAttack: 2
+Class: 101
+Race: 109
+Height: 200
+Weight: 150
+Special_Bitvector: w0c1 
+Feat: 2
+Feat: 3
+Skill: 132 100
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+Spell: 152
+E
+T 26710
+#26708
+каменные осколки~
+каменные осколки~
+каменных осколков~
+каменным осколкам~
+каменные осколки~
+каменными осколками~
+каменных осколках~
+Куски камня,   норовящие попасть вам в голову летают здесь.
+~
+   Огромные куски камня, живые и готовые вас убить.
+Стоит быть аккуратнее.
+
+~
+d0e0f0m0n0u0z0 d0f0k0 -600 E
+28 0 -10 10d10+500 5d5+9
+0d0+2 190000
+8 8 3
+Resistances: 35 35 35 50 0 0 0
+Armour: 100
+Absorbe: 28
+BareHandAttack: 6
+Str: 35
+Dex: 24
+Int: 24
+Wis: 35
+Con: 35
+Cha: 24
+Size: 100
+LikeWork: 80
+ExtraAttack: 4
+Class: 101
+Race: 110
+Height: 140
+Weight: 140
+Special_Bitvector: 0 
+Skill: 132 100
+Skill: 137 100
+E
+#26709
+голем металл жидкий~
+голем из жидкого металла~
+голема из жидкого металла~
+голему из жидкого металла~
+голема из жидкого металла~
+големом из жидкого металла~
+големе из жидкого металла~
+Голем из жидкого металла хлюпает на вас.
+~
+   Существо из горящего жидкого металла. Очень,
+очень опасно. Языки пламени покрывают стальную
+броню на его теле.
+
+~
+d0f0l0m0n0z0 c0d0f0k0a1 -600 E
+34 0 0 50d50+6000 20d24+9
+1d1+1 720000
+8 8 1
+Saves: -22 -22 -22 -22
+Resistances: 40 40 40 40 40 40 40
+Armour: 100
+CastSuccess: 100
+Absorbe: 34
+BareHandAttack: 5
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 85
+ExtraAttack: 2
+Class: 101
+Race: 109
+Height: 150
+Weight: 150
+Special_Bitvector: c1 
+Feat: 1
+Feat: 2
+Feat: 3
+Skill: 5 100
+Skill: 134 100
+Skill: 137 100
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 68
+E
+T 26722
+#26710
+огненный столб~
+огненный столб~
+огненного столба~
+огненному столбу~
+огненный столб~
+огненным столбом~
+огненном столбе~
+Огромный столб огня подпирает потолок.
+~
+   Вихрь огня, жужжащий, обжигающий, готовый съесть
+все, что попадется на его пути.
+~
+b0d0l0n0p0q0r0t0a2h2 d0k0p1 -600 E
+35 0 0 20d10+7000 10d10+15
+5d10+20 850000
+8 8 1
+Saves: -26 -26 -26 -26
+Resistances: 200 60 60 60 60 60 60
+Armour: 60
+CastSuccess: 100
+Absorbe: 35
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 95
+ExtraAttack: 1
+Class: 101
+Race: 110
+Height: 200
+Weight: 150
+Special_Bitvector: x0 
+Spell: 56
+Spell: 56
+Spell: 56
+Spell: 82
+Spell: 82
+E
+T 26713
+#26711
+ огня призрачный дух ~
+дух огня~
+духа огня~
+духу огня~
+дух огня~
+духом огня~
+духе огня~
+Призрачный дух огня летает здесь.
+~
+   Призрачный дух, светящийся странным сиянием. Он готов убить любого, кто
+зайдет к нему в комнату.
+~
+d0f0l0m0n0z0 d0k0 -600 E
+30 0 0 10d10+2000 14d5+8
+1d1+11 280000
+8 8 1
+Resistances: 15 15 15 15 15 15 15
+Armour: 45
+CastSuccess: 70
+Absorbe: 30
+BareHandAttack: 2
+Str: 35
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 90
+MaxFactor: 25
+ExtraAttack: 1
+Class: 101
+Race: 111
+Height: 175
+Weight: 90
+Special_Bitvector: 0 
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+Spell: 26
+E
+T 26714
+#26712
+ элементаль воздуха~
+элементаль воздуха~
+элементаля воздуха~
+элементалю воздуха~
+элементаля воздуха~
+элементалем воздуха~
+элементале воздуха~
+   Клочoк воздуха и облаков летает здесь.
+~
+___Это существо - создание воздуха во всем похоже на человека, хотя и
+может менять свою форму по желанию. Те же руки, ноги, голова, тело..
+Но все прозрачное и очень легкое.
+~
+d0e0f0l0m0n0t0z0 b0c0d0f0g0k0r1 -600 E
+30 0 -4 50d30+2000 12d8+6
+2d2+40 260000
+8 8 1
+Resistances: 50 100 50 50 50 50 50
+Armour: 50
+CastSuccess: 100
+Absorbe: 30
+BareHandAttack: 2
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 95
+MaxFactor: 20
+ExtraAttack: 1
+Class: 101
+Race: 114
+Height: 175
+Weight: 120
+Special_Bitvector: u0 
+Feat: 2
+Feat: 3
+Feat: 61
+Skill: 132 200
+Spell: 151
+Spell: 151
+Spell: 151
+E
+T 26715
+#26713
+призрачный маг~
+призрачный маг~
+призрачного мага~
+призрачному магу~
+призрачного мага~
+призрачным магом~
+призрачном маге~
+Призрачный маг стоит здесь, помахивая посохом.
+~
+   Этот нечеловек не один век провел за магическими книгами, от чего сила
+его заклинаний стала огромна, а глаза его загорелись темным огнем.
+~
+b0c0d0f0m0x0A0 b0c0d0f0g0k0p1 -600 E
+31 0 -4 40d50+2500 8d8+8
+8d9+10 400000
+8 8 1
+Saves: -10 -10 -10 -10
+Resistances: 50 50 50 50 50 50 50
+Armour: 50
+PlusMem: 50
+CastSuccess: 150
+Initiative: 50
+Absorbe: 31
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 101
+Race: 110
+Height: 175
+Weight: 85
+Special_Bitvector: b1 
+Spell: 94
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+E
+T 26716
+T 26717
+#26714
+ темный дружинник~
+темный дружинник~
+темного дружинника~
+темному дружиннику~
+темного дружинника~
+темным дружинником~
+темном дружиннике~
+Дружинник стоит здесь, готовый к бою.
+~
+  Этот бывалый воин давным-давно перешел на сторону тьмы и сейчас защищает
+ее преспешников даже ценой своей жизни.
+~
+b0d0f0m0n0x0 c0d0e0f0k0r0x0z0A0m1r1e2 -600 E
+33 0 -4 10d10+3500 10d10+9
+2d5+8 550000
+8 8 1
+Saves: -18 -18 -18 -18
+Resistances: 50 50 50 50 50 50 50
+HPreg: 50
+Armour: 100
+CastSuccess: 26
+Success: 50
+Initiative: 50
+Absorbe: 33
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 95
+ExtraAttack: 1
+Class: 101
+Race: 101
+Height: 175
+Weight: 85
+Special_Bitvector: b1c1C3 
+Skill: 12 200
+Skill: 22 150
+Skill: 137 200
+Skill: 143 200
+Skill: 150 150
+E
+T 26719
+I зубы,10:15
+#26715
+ витязь  скелет~
+витязь-скелет~
+витязя-скелета~
+витязю-скелету~
+витязя-скелета~
+витязем-скелетом~
+витязе-скелете~
+Витязь-скелет махает здесь огромным мечом.
+~
+   Огромный скелет с крепкими и мощными костями. В руках он держит тяжелый
+меч, лезвие которого остро наточено.
+~
+b0d0f0l0m0z0 d0e0f0k0r1d2 -600 E
+33 0 -4 10d60+3000 12d12+8
+4d8+12 530000
+8 8 1
+Saves: -18 -18 -18 -18
+Resistances: 50 50 50 50 50 50 50
+HPreg: 50
+Armour: 50
+CastSuccess: 70
+Success: 100
+Initiative: 100
+Absorbe: 33
+BareHandAttack: 3
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 90
+MaxFactor: 19
+ExtraAttack: 1
+Class: 101
+Race: 110
+Height: 175
+Weight: 150
+Special_Bitvector: b0b1B3 
+Feat: 2
+Feat: 3
+Feat: 4
+Feat: 5
+Skill: 21 200
+Skill: 132 200
+Skill: 146 200
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+Spell: 88
+E
+T 26721
+T 26728
+#26716
+ лекарь тьмы~
+лекарь тьмы~
+лекаря тьмы~
+лекарю тьмы~
+лекаря тьмы~
+лекарем тьмы~
+лекаре тьмы~
+Лекарь тьмы стоит здесь.
+~
+   Лекарь должен служить свету. А если он начинает служить тьме, то он 
+превращается в такое существо - забитое, маленькое, на побегушках у темных
+воинов, не берегущих свою и чужую жизнь.
+~
+b0d0l0m0n0z0 b0c0d0e0f0g0k0t0j1r1d2e2 -600 E
+31 0 -4 10d10+1000 10d4+2
+2d2+5 380000
+8 8 1
+Saves: -10 -10 -10 -10
+Resistances: 50 50 50 55 50 50 50
+HPreg: 50
+Armour: 50
+PlusMem: 50
+CastSuccess: 50
+Success: 50
+Initiative: 50
+Absorbe: 31
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 95
+ExtraAttack: 1
+Class: 101
+Race: 101
+Height: 175
+Weight: 85
+Special_Bitvector: 0 
+Feat: 3
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 27
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+Spell: 48
+E
+T 26729
+#26717
+ Барон Симерон~
+Барон Симерон~
+Барона Симерона~
+Барону Симерону~
+Барона Симерона~
+Бароном Симероном~
+Бароне Симероне~
+Барон Симерон, предводитель тьмы стоит здесь.
+~
+   Огромное существо с клыкастым ртом и сильными, мускулистыми руками.
+Не то мужик, не то зверь, не то призрак.
+~
+b0c0d0f0l0n0z0A0 b0c0d0e0f0g0k0n0p1e2 -600 E
+37 0 -9 10d10+9000 12d15+12
+10d10+5 1300000
+8 8 1
+Saves: -42 -42 -42 -42
+Resistances: 100 100 100 100 100 100 100
+HPreg: 100
+Armour: 100
+PlusMem: 50
+CastSuccess: 100
+Success: 50
+Initiative: 50
+Absorbe: 46
+AResist: 5
+MResist: 5
+Str: 45
+Dex: 45
+Int: 38
+Wis: 38
+Con: 38
+Cha: 38
+Size: 100
+LikeWork: 95
+ExtraAttack: 1
+Class: 101
+Race: 101
+Height: 175
+Weight: 85
+Special_Bitvector: 0 
+Skill: 131 200
+Skill: 132 200
+Skill: 147 200
+Skill: 167 200
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 28
+Spell: 56
+Spell: 94
+Spell: 113
+Role: 000000001
+E
+T 26720
+#26718
+ призрак знаний~
+призрак знаний~
+призрака знаний~
+призраку знаний~
+призрак знаний~
+призраком знаний~
+призраке знаний~
+Призрак знаний летает здесь.
+~
+   Мудрый призрак, который провел много лет, будучи заточенным в темницу
+знаний.
+~
+b0d0t0 0 0 E
+12 1 1 10d10+2 11d11+87
+1d1+11 10000
+8 8 1
+Absorbe: 12
+Str: 10
+Dex: 10
+Int: 10
+Wis: 10
+Con: 10
+Cha: 10
+Size: 100
+ExtraAttack: 1
+Class: 100
+Race: 111
+Height: 175
+Weight: 85
+Special_Bitvector: 0 
+E
+T 26718
+#26719
+призрачный маг ходячие~
+призрачный маг~
+призрачного мага~
+призрачному магу~
+призрачного мага~
+призрачным магом~
+призрачном маге~
+Призрачный маг стоит здесь, помахивая посохом.
+~
+   Этот нечеловек не один век провел за магическими книгами, от чего сила
+его заклинаний стала огромна, а глаза его загорелись темным огнем.
+~
+c0d0f0m0x0A0 b0c0d0f0g0k0p1 -600 E
+30 0 -4 40d50+2500 8d8+8
+8d9+10 300000
+8 8 1
+Absorbe: 30
+Str: 50
+Dex: 50
+Int: 50
+Wis: 50
+Con: 50
+Cha: 50
+Size: 100
+LikeWork: 85
+ExtraAttack: 1
+Class: 101
+Race: 110
+Height: 175
+Weight: 85
+Special_Bitvector: b1 
+Spell: 94
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+Spell: 128
+E
+T 26716
+T 26717
+#26720
+призрак замка~
+призрак замка~
+призрака замка~
+призраку замка~
+призрака замка~
+призраком замка~
+призраке замка~
+Призрак замка парит в воздухе, не замечая вас.
+~
+___Вы пытаетесь рассмотреть призрака, однако с удивлением обнаруживаете,
+что не можете сосредоточить на нем взгляд.
+~
+b0c0d0n0r0b1 d0f0k0x0z0A0r1t1e2 600 E
+30 -5 -10 0d0+1700 10d10+20
+10d1+1000 327000
+8 8 1
+Saves: -10 -10 -10 -10
+Resistances: 0 0 0 0 10 10 10
+Absorbe: 30
+BareHandAttack: 6
+Str: 33
+Dex: 25
+Int: 25
+Wis: 25
+Con: 35
+Cha: 20
+Size: 50
+LikeWork: 80
+ExtraAttack: 2
+Class: 105
+Race: 111
+Height: 180
+Weight: 80
+Special_Bitvector: l0u0b1c1 
+Skill: 3 50
+Skill: 5 170
+Skill: 22 170
+Skill: 136 150
+Skill: 141 140
+Skill: 142 140
+Skill: 143 140
+Skill: 144 140
+Skill: 145 140
+Skill: 146 140
+Skill: 148 140
+Skill: 149 100
+Skill: 154 140
+Skill: 155 170
+E
+$
