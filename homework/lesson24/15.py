@@ -1,6 +1,11 @@
 import random
 import subprocess
 from pynput import keyboard
+import pyhook
+#import os
+
+
+#add handlers
 
 class Cursor:
     cursor_position = [[False, True, False, False],
@@ -24,7 +29,6 @@ class Cursor:
             if new_position[0] >= 0 and new_position[1] >= 0:
                 self.cursor_position[new_position[0]][new_position[1]]=True
                 self.cursor_position[curr_position[0]][curr_position[1]]=False
-
 
                 return True
             else:
@@ -136,8 +140,6 @@ class Field(Cursor):
             print(''.join(line).replace('||', '|'))
         print(splitter)
 
-
-
 f=Field()
 c=Cursor()
 
@@ -153,6 +155,7 @@ def on_press(key):
         return False # stop listener
 
     if k == 'left':
+        #os.
         subprocess.call("cls", shell=True)
         c.move_left()
         f.display_field()
