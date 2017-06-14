@@ -23,7 +23,6 @@ class Handler:
 def printHi():
     print('--Hello')
 
-
 def printBye():
     print('--Bye')
 

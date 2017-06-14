@@ -2,7 +2,6 @@ import random
 from msvcrt import getch
 import time
 
-
 class Field():
     field = [[], [], [], []]
 
@@ -18,7 +17,6 @@ class Field():
 
         digits.append(None)
         random.shuffle(digits)
-
         digit_position = 0
         for i in range(4):
             for g in range(0, 4):
@@ -29,21 +27,19 @@ class Field():
         return self.cur_position
 
     def set_cursor(self, x, y):
-        try:
-            x=x-1
-            y=y-1
-            if self.field[x][y]:
-                self.cur_position=[x,y]
-                return True
-        except IndexError:
-            print('No such ')
-            return False
+        x=self.get_cursor()[0]+x
+        y=self.get_cursor()[1]+y
+        print(x,y)
 
+        if x >= 0 and y >= 0 and y < 4 and x < 4:
+            self.cur_position[0]=x
+            self.cur_position[1]=y
+            return True
+        else:
+            return False
 
     def check_move_digit(self, x, y):
         try:
-            x=x-1
-            y=y-1
             if self.field[x][y] is None:
                 return True
         except IndexError:
@@ -53,25 +49,44 @@ class Field():
         pos=self.get_cursor()
         x=pos[0]
         y=pos[1]
-
         if self.check_move_digit(x+1, y):
-            self.set_cursor(x+1, y)
+            now=self.field[x][y]
+            self.field[x][y]=None
+            self.field[x+1][y]=now
             return True
         elif self.check_move_digit(x-1, y):
-            self.set_cursor(x-1, y)
+            now=self.field[x][y]
+            self.field[x][y]=None
+            self.field[x-1][y]=now
             return True
         elif self.check_move_digit(x, y+1):
-            self.set_cursor(x, y+1)
+            now=self.field[x][y]
+            self.field[x][y]=None
+            self.field[x][y+1]=now
             return True
         elif self.check_move_digit(x, y-1):
-            self.set_cursor(x, y-1)
+            now=self.field[x][y]
+            self.field[x][y]=None
+            self.field[x][y-1]=now
             return True
         else:
             return False
 
+    def move_up(self, arg=None):
+        self.set_cursor(-1, 0)
+
+    def move_down(self, arg=None):
+        self.set_cursor(1,0)
+
+    def move_left(self, arg=None):
+        self.set_cursor(0,-1)
+
+    def move_right(self, arg=None):
+        self.set_cursor(0,+1)
 
     def display_field(self):
         cursor=self.get_cursor()
+        print(cursor)
         splitter = '---------------------'
         print(splitter)
         x = 0
@@ -96,22 +111,26 @@ class Field():
             print(''.join(line).replace('||', '|'))
         print(splitter)
 
-
 def main():
 
     f=Field()
     f.display_field()
-
-    handlers={'up':f.set_cursor(f.get_cursor()[0]+1, f.get_cursor()[1]),
-              'down':f.set_cursor(f.get_cursor()[0]-1, f.get_cursor()[1]),
-              'left':f.set_cursor(f.get_cursor()[0], f.get_cursor()[1]-1),
-              'right':f.set_cursor(f.get_cursor()[0], f.get_cursor()[1]+1),
-              'space':f.move_digit()
-    }
+    handlers={'u':f.move_up,
+              'd':f.move_down,
+              'l':f.move_left,
+              'r':f.move_right,
+              's':f.move_digit
+              }
 
     while True:
+        print('let\'s go')
 
-        print(ord(getch()))
+        command=input('Chice = ')
+
+        if len(command) > 0:
+            handlers[command]('ok')
+            f.display_field()
+
         time.sleep(0.2)
 
 main()
