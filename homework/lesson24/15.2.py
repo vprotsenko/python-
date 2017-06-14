@@ -125,7 +125,7 @@ def main():
     while True:
         print('let\'s go')
 
-        command=input('Chice = ')
+        command=input('Choice = ')
 
         if len(command) > 0:
             handlers[command]('ok')
