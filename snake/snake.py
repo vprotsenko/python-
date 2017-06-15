@@ -9,7 +9,6 @@ from pygame.locals import *
 from random import randint
 
 
-
 speed=1
 rows, cols = 15, 25
 
@@ -123,10 +122,6 @@ while GameOver:
 			xscale += 1
 		elif direct==4: #Down
 			yscale += 1
-
-
-
-
 
 		newPosition(x_positions,y_positions)
 		food()

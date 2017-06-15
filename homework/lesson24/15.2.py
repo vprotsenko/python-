@@ -45,7 +45,7 @@ class Field():
         except IndexError:
             return False
 
-    def move_digit(self, arg=None):
+    def move_digit(self):
         pos=self.get_cursor()
         x=pos[0]
         y=pos[1]
@@ -111,6 +111,27 @@ class Field():
             print(''.join(line).replace('||', '|'))
         print(splitter)
 
+    def check(self):
+        digits = []
+        for i in range(1, 16):
+            digits.append(int(i))
+        digits.append(None)
+
+        etalon=[[],[],[],[]]
+        digit_position = 0
+        for i in range(4):
+            for g in range(0, 4):
+                etalon[i].append(digits[digit_position])
+                digit_position += 1
+
+        print(etalon)
+        print(self.field)
+
+        if etalon == self.field:
+            print('Ok')
+        else:
+            print('NotOk')
+
 def main():
 
     f=Field()
@@ -122,6 +143,7 @@ def main():
               's':f.move_digit
               }
 
+    f.check()
     while True:
         print('let\'s go')
 
