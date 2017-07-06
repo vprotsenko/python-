@@ -8,15 +8,23 @@ class Client:
         self.connect = connect
         self.name=None
 
-    def receive(self, message_list, calback):
+    def receive(self, message_list, calback, remove):
         while True:
-            message=self.connect[0].recv(65000)
+            try:
+                message=self.connect[0].recv(65000)
+            except:
+                print('User disconected')
+                remove(self.name)
+                break
             calback(message)
             message_list(message)
             print(message)
 
     def send(self,  message):
-        self.connect[0].send(message)
+        try:
+            self.connect[0].send(message)
+        except:
+            print('send not works')
 
     def ask_name(self):
         name = self.connect[0].recv(65000)
@@ -61,7 +69,6 @@ class MyServer(Thread):
                 c.close()
 
         if user_uniq:
-            print('===========')
             #self.lock_userlist.acquire()
             self.users.append(c)
             #self.lock_userlist.release()
@@ -76,7 +83,7 @@ class MyServer(Thread):
         while True:
             client = Client(self.server.accept())
             Thread(target=self.start_chat, args=[client]).start()
-            Thread(target=client.receive, args=[self.add_message, self.check_message]).start()
+            Thread(target=client.receive, args=[self.add_message, self.check_message, self.remove_user]).start()
             print(client)
 
     def add_message(self, message):
@@ -84,17 +91,16 @@ class MyServer(Thread):
         self.message_list.append(message)
         self.lock_mess.release()
 
-    def send_message(self, s, name=None):
+    def send_message(self, s, to_user=None):
         self.lock_userlist.acquire()
-        if not name:
+        if not to_user:
             for i in self.users:
                 i.send(s)
         else:
             for i in self.users:
-                if i.name.replace('\n', '') == name:
+                if i.name.replace('\n', '') == to_user:
                     i.send(s)
                     break
-
         self.lock_userlist.release()
 
     def check_message(self, m):
@@ -102,19 +108,23 @@ class MyServer(Thread):
 
         list_users = '/users\n'.encode('utf-8')
         privat_mess = '/send'
-        print('====', m.decode('utf-8').split(' ')[0])
 
         if list_users == m:
-            print('looking for users', m)
             for i in self.users:
                 u_list.append(i.name)
-            self.send_message(str(u_list).encode('utf-8'))
+            self.send_message(''.join(str(u_list)).encode('utf-8'))
         elif privat_mess == m.decode('utf-8').split(' ')[0]:
             user = m.decode('utf-8').split(' ')[1]
-            print('sending to ', user)
-            self.send_message((''.join(m.decode('utf-8').split(' ')[1:])).encode('utf-8'), user)
+            self.send_message((' '.join(m.decode('utf-8').split(' ')[2:])).encode('utf-8'), user)
         else:
             self.send_message(m)
+
+    def remove_user(self, name):
+        for i in self.users:
+            print(i)
+            if i.name == name:
+                self.users.remove(i)
+                break
 
 chat = MyServer()
 chat.start()
